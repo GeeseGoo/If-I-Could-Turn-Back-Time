@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-20T10:12:17.333382Z",
+  "model": "hf.co/charles6huang/mimir-mistral-7b-core-scratch-instruct-Q4_K_M-GGUF:Q4_K_M",
+  "lang": "en",
+  "num_q": 1000,
+  "duration_s": 1481.722,
+  "slurm_job_id": "23138230",
+  "slurm_array_task_id": "1",
+  "node": "idun-07-10",
+  "correct_answers": 79,
+  "invalid_answers": 0,
+  "accuracy": 0.079,
+  "num_gpus": 1
+}

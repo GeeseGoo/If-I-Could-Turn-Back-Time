@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-15T12:00:35.840798Z",
+  "model": "hf.co/NorwAI/NorwAI-Magistral-24B-reasoning:Q8_0",
+  "lang": "no",
+  "num_q": 997,
+  "duration_s": 1096.082,
+  "slurm_job_id": "23130040",
+  "slurm_array_task_id": "0",
+  "node": "idun-08-03",
+  "correct_answers": 759,
+  "invalid_answers": 0,
+  "accuracy": 0.7612838515546639,
+  "num_gpus": 1
+}

@@ -1,0 +1,9 @@
+model1,model2,a,b,c,d,chi_squared,p_value,significant
+deepseek-r1:1.5b_en+deepseek-r1:7b_en+deepseek-r1:14b_en+deepseek-r1:32b_en+deepseek-r1:70b_en+deepseek-r1:671b_en,deepseek-r1:1.5b_no+deepseek-r1:7b_no+deepseek-r1:14b_no+deepseek-r1:32b_no+deepseek-r1:70b_no+deepseek-r1:671b_no,2527,464,323,2650,24.905,0.0000,yes
+gemma3:270m_en+gemma3:1b_en+gemma3:4b_en+gemma3:27b_en,gemma3:270m_no+gemma3:1b_no+gemma3:4b_no+gemma3:27b_no,1162,276,215,2323,7.332,0.0068,yes
+qwen3:0.6b_en+qwen3:1.7b_en+qwen3:8b_en+qwen3:14b_en+qwen3:32b_en+qwen3:235b_en,qwen3:0.6b_no+qwen3:1.7b_no+qwen3:8b_no+qwen3:14b_no+qwen3:32b_no+qwen3:235b_no,2706,439,350,2469,9.815,0.0017,yes
+llama3.1:8b_en+llama3.1:70b_en+llama3.1:405b_en,llama3.1:8b_no+llama3.1:70b_no+llama3.1:405b_no,1816,227,288,651,6.990,0.0082,yes
+NorwAI-Magistral-24B-reasoning:Q8:0_en,NorwAI-Magistral-24B-reasoning:Q8:0_no,681,69,76,168,0.248,0.6183,no
+magistral:24b-en,magistral:24b-no,609,92,85,211,0.203,0.6520,no
+llama3.1:70b_en+llama3.1:70b_no,llama3.1:70b-instruct-q4_K_M_en+llama3.1:70b-instruct-q4_K_M_no,1400,138,117,333,1.569,0.2104,no
+magistral:24b-en+magistral:24b-no,NorwAI-Magistral-24B-reasoning:Q8:0_en+NorwAI-Magistral-24B-reasoning:Q8:0_no,1062,331,445,150,16.455,0.0000,yes

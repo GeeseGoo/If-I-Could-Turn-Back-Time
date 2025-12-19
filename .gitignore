@@ -1,0 +1,20 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# Private/local datasets (do not commit)
+qa_pairs.json
+qa_pairs_with_answers.json
+
+
+# Keep results and graphs (do NOT ignore):
+# results/
+# family_graphs/
+# *.png

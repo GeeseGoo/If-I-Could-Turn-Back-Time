@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-03T20:57:21.783236Z",
+  "model": "deepseek-r1:1.5b",
+  "lang": "no",
+  "num_q": 997,
+  "duration_s": 1245.097,
+  "slurm_job_id": "23104877",
+  "slurm_array_task_id": "3",
+  "node": "idun-07-09",
+  "correct_answers": 6,
+  "invalid_answers": 0,
+  "accuracy": 0.006018054162487462,
+  "num_gpus": 1
+}

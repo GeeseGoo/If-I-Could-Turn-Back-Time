@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-22T15:05:02.622076Z",
+  "model": "llama3.1:70b-instruct-q4_K_M",
+  "lang": "no",
+  "num_q": 997,
+  "duration_s": 2382.109,
+  "slurm_job_id": "23144555",
+  "slurm_array_task_id": "0",
+  "node": "idun-07-09",
+  "correct_answers": 759,
+  "invalid_answers": 0,
+  "accuracy": 0.7612838515546639,
+  "num_gpus": 1
+}

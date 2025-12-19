@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-06T17:38:21.225130Z",
+  "model": "gemma3:27b",
+  "lang": "en",
+  "num_q": 997,
+  "duration_s": 2871.771,
+  "slurm_job_id": "23108947",
+  "slurm_array_task_id": "1",
+  "node": "idun-07-01",
+  "correct_answers": 777,
+  "invalid_answers": 0,
+  "accuracy": 0.7793380140421263,
+  "num_gpus": 1
+}

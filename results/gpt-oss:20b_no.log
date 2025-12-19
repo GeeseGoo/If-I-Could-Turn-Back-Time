@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-10-03T22:00:27.456110Z",
+  "model": "gpt-oss:20b",
+  "lang": "no",
+  "num_q": 997,
+  "duration_s": 4889.976,
+  "slurm_job_id": "23104884",
+  "slurm_array_task_id": "2",
+  "node": "idun-07-04",
+  "correct_answers": 654,
+  "invalid_answers": 0,
+  "accuracy": 0.6559679037111334,
+  "num_gpus": 1
+}

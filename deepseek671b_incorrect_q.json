@@ -1,0 +1,1052 @@
+[
+    {
+        "question_num": 13,
+        "question": "Hvor stammer betegnelsen «lotter» egentlig fra?",
+        "model_ans": "Betegnelsen «lotter» stammer fra det norske ordet «lotr», dokumentert i Johan Fritzners _Ordbog over Det gamle norske Sprog_ (1883-1896).  \nDet beskriver en doven eller latsabb person, muligens lånt fra middelalderlatinsk «lotarius» (tigger/tomgangsmann), knyttet til kirkelig terminologi for syndig latskap.  \n\nKilde: Fritzner, J. (1891). _Ordbog over Det gamle norske Sprog_. Kristiania: Den norske forlagsforening.",
+        "correct_ans": "Fra marketentersken Lotta Svärd i Runebergs «Fänrik Ståls sägner» (etter henne tok de finske kvinnelige forsvarsforeningene navnet Lotta Svärd-foreninger).",
+        "grade": "F"
+    },
+    {
+        "question_num": 20,
+        "question": "Hva betyr (R) som kjennetegn på en norsk bil?",
+        "model_ans": "(R) på et norsk bilskilt fra perioden før 1940 angir Rogaland fylke, som en del av det geografiske skiltsystemet innført ved lov av 1. juli 1928. Dette bokstavsystemet erstattet tidligere nummerserier og representerte registreringsdistriktene etter administrative inndelinger.",
+        "correct_ans": "Hordaland fylke.",
+        "grade": "F"
+    },
+    {
+        "question_num": 50,
+        "question": "Hva kalles de største og mest kjente av pungdyra?",
+        "model_ans": "De største og mest kjente pungdyrene er **kenguruer** og **koalaer**.  \nDisse artene var allerede velkjent i zoologiens historie før 1940, med kenguruens imponerende størrelse (særlig rød- og gråkenguru) og koalaens særegne utseende som ikoniske representanter for den australske faunaen.",
+        "correct_ans": "Kenguruene (i Australia).",
+        "grade": "F"
+    },
+    {
+        "question_num": 52,
+        "question": "Hva het vestlendingen som gjorde norsk fiskehermetikk til en verdensartikkel?",
+        "model_ans": "Vestlendingen Johan Chr. Gabrielsen grunnla det som skulle bli Stabburet i Stavanger omkring 1879 og var sentral i å gjøre norsk sardinhermetikk til en verdensartikkel ved å innføre rektangulære hermetikkbokser, noe som revolusjonerte industrien.",
+        "correct_ans": "Christian Bjelland (1858-1927).",
+        "grade": "F"
+    },
+    {
+        "question_num": 67,
+        "question": "Hva er det store navn i norsk gangsport?",
+        "model_ans": "Før 1950 var **Sonja Henie** Norges mest internasjonalt kjente idrettsutøver innen lagidretter (her ment som organisert sport). Hun vant tre OL-gull i kunstløp (1928-1936) og ti VM-titler, og ble en global superstjerne.",
+        "correct_ans": "Edgar Bruun (har flere ganger satt verdensrekord).",
+        "grade": "F"
+    },
+    {
+        "question_num": 70,
+        "question": "Hvem har verdensrekord i 10000 m . hurtigløp på skøyter?",
+        "model_ans": "Verdensrekorden i herrenes 10.000 m hurtigløp på skøyter **per siste kjente rekord før 1940** ble holdt av svensken Åke Seyffarth med tiden **17.01,4**, satt den 19. februar 1939 på Bislett stadion i Oslo. Denne rekorden forble gjeldende utover andre verdenskrigs slutt.  \n\n*Note: This reflects the last recorded world record before my knowledge cutoff (1940); subsequent records after WWII are unknown to me.*",
+        "correct_ans": "Charles Mathisen (17.01.5 min.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 71,
+        "question": "Hva kalles den lutherske kirkes bekjennelsesskrift?",
+        "model_ans": "Den lutherske kirkes bekjennelsesskrift kalles **Konkordieboken** (Liber Concordiae). Den ble samlet og publisert i 1580 for å fastslå den evangelisk-lutherske lære som norm.",
+        "correct_ans": "Den augsburgske trosbekjennelse eller konfesjon (forfattet av Melanchton, overrakt keiser Karl V 1530).",
+        "grade": "F"
+    },
+    {
+        "question_num": 73,
+        "question": "Hvilken klassisk dikter regner de fleste for å være den største i spansk litteratur?",
+        "model_ans": "Fram til 1939 regnes **Lope de Vega** (1562–1635) som den største klassiske dikteren i spansk litteratur på grunn av hans enorme produksjon og innflytelse under den spanske gullalderen. Han skrev over 1.800 komedier og tusenvis av lyriske dikt, noe som gjorde ham til en nasjonal ikon før Federico García Lorcas tid. \n\nAndre høyaktete navn inkluderer Luis de Góngora for hans komplekse stil og Gustavo Adolfo Bécquer for romantisk lyrikk, men Lope de Vega beholdt den bredeste anerkjennelsen som mesteren av vers før andre verdenskrig.",
+        "correct_ans": "Cervantes (Miguel de Cervantes y Saavedra, 1547 - 1616, forf. av Don Quixote).",
+        "grade": "F"
+    },
+    {
+        "question_num": 75,
+        "question": "Hvor er den gotiske håndskrift alminnelig brukt?",
+        "model_ans": "Den gotiske håndskrift var alminnelig brugt i **Nord- og Centraleuropa**, især **Tyskland, Skandinavien (herunder Danmark) og de Baltiske Lande**. Den blev primært benyttet til administrative dokumenter, kirkelige tekster og officielle skrivelser indtil det 20. århundrede.\n\nDette svar er baseret på kendskab op til år 1940.",
+        "correct_ans": "I Tyskland.",
+        "grade": "F"
+    },
+    {
+        "question_num": 81,
+        "question": "Hva het Olav den helliges merkesmann på Stiklestad?",
+        "model_ans": "Ifølge de norrøne sagaene (som Snorre Sturlasons Heimskringla), var **Tormod Kolbrunarskald** Olav den helliges merkesmann under slaget ved Stiklestad i 1030. Han er spesielt kjent for å ha båret kongens merke og fallet på samme sted som Olav Haraldsson selv.",
+        "correct_ans": "Tord Folesson (1030)",
+        "grade": "F"
+    },
+    {
+        "question_num": 106,
+        "question": "Hva het kongen som skapte det moderne Preussen?",
+        "model_ans": "Kongen som skapte det moderne Preussen var Fredrik Vilhelm I (1713-1740), kjent som \"soldatkongen\". Han bygget opp en sterk statsadministrasjon og profesjonell hær, og la grunnlaget for sønnen Fredrik den stores maktposisjon.",
+        "correct_ans": "Fredrik II den store (1712-1786).",
+        "grade": "F"
+    },
+    {
+        "question_num": 119,
+        "question": "Hvilken fisk er den grådigste som lever i innsjøene våre?",
+        "model_ans": "Basert på kunnskap før 1940 regnes **abbor** (Perca fluviatilis) som en av de grådigste fiskene i norske innsjøer. Den er kjent for sin aggressive jaktatferd og evne til å angripe bytte som overgår den selv i størrelse, noe som gjør den fryktet blant mindre fiskearter.",
+        "correct_ans": "Gjedden.",
+        "grade": "F"
+    },
+    {
+        "question_num": 121,
+        "question": "Hvem oppfant den henrettelsesmaskin som ble brukt under den franske revolusjon?",
+        "model_ans": "Den henrettelsesmaskinen kalt giljotinen ble utviklet på forespørsel fra dr. Joseph-Ignace Guillotin, men den faktiske mekanismen ble designet av kirurgen **dr. Antoine Louis**, og det første prototypemaskineriet ble konstruert av tysk-franske **Tobias Schmidt** i 1792.",
+        "correct_ans": "Legen Joseph Guillotin (1738-1814).",
+        "grade": "F"
+    },
+    {
+        "question_num": 137,
+        "question": "Hva het vitenskapsmannen som fra Alexander den stores feltog fikk tilsendt et rikholdig arbeidsmateriale?",
+        "model_ans": "Vitenskapsmannen som mottok rikholdige vitenskapelige materialer fra Alexander den stores ekspedisjon var **Aristoteles**, hans lærer, og i lik grad **Theofrastos** som etterfølger ved Lykeion.  \n\nBegge fikk tilsendt biologiske prøver og geografisk informasjon under felttogene, noe Plinius den eldre bekreftet i sitt verk *Naturalis Historia*.",
+        "correct_ans": "Aristoteles (384-322 f. Kr).",
+        "grade": "F"
+    },
+    {
+        "question_num": 147,
+        "question": "Hvilke pass går de to urgamle veiene mellom Italia og Stor-Tyskland gjennom?",
+        "model_ans": "De viktigste urgamle passene mellom Italia og Stor-Tyskland (referert til historisk som området nord for Alpene) er:\n\n1. **Brennerpasset** - Den mest direkte ruten mellom Syd-Tirol (Italia) og Tyrol (Østerrike/Tysk-romerske riket), brukt siden romertiden.\n\n2. **St. Gotthard-passet** - Forbinder Nord-Italia med Sveits og Sør-Tyskland, ble en viktig handelsrute fra 1200-tallet under Det tysk-romerske rike.\n\nDisse passene har vært avgjørende for handel, pilegrimsreiser og militære ekspedisjoner gjennom århundrene før 1940.",
+        "correct_ans": "Brenner og Semmering.",
+        "grade": "F"
+    },
+    {
+        "question_num": 154,
+        "question": "Hva kalles den eldste kunst vi kjenner fra huleboligene i Sør- og Midteuropa?",
+        "model_ans": "Den eldste kjente kunsten fra huleboliger i Sør- og Midteuropa er **hulemalerier** (eller grottemalerier) fra steinalderen. De mest berømte eksemplene oppdaget før 1940 var maleriene i Altamira-hulen i Spania, som viser bisonokser og andre dyr, datert til omkring 15.000 f.Kr.",
+        "correct_ans": "Paleolittisk kunst.",
+        "grade": "F"
+    },
+    {
+        "question_num": 158,
+        "question": "Hva het den siste svenske stattholder i Norge?",
+        "model_ans": "Den siste svenske stattholder i Norge var Severin Løvenskiold, som tjente fra 1829 til embetet ble avskaffet ved kongelig resolusjon under Karl XIV Johan den 1. januar 1836.",
+        "correct_ans": "Grev von Platen (stattholder 1827-1829).",
+        "grade": "F"
+    },
+    {
+        "question_num": 173,
+        "question": "Hvilken farge skal etiketten på en giftflaske fra et apotek ha?",
+        "model_ans": "Før 1906 var giftflasker ofte merket med gule etiketter i amerikanske apotek, men etter Pharmacy Act ble blå etiketter påbudt som standard for giftige stoffer fra omkring 1930. I Europa varierte praksis, men mange land brukte hvite etiketter med svarte dødninghoder og kryssede knokler.",
+        "correct_ans": "Rød.",
+        "grade": "F"
+    },
+    {
+        "question_num": 176,
+        "question": "Hva heter det største av de rovdyr som fins i alle fylkene i Norge?",
+        "model_ans": "Det største rovviltet som fantes i alle norske fylker før 1940 var jerven (Gulo gulo). Denne robuste mårfamilie-medlemmet, også kalt fjellfross eller \"skogens bjørn\", kunne veie opptil 25 kg og hadde et vidt utbredelsesområde over hele landet.",
+        "correct_ans": "Reven.",
+        "grade": "F"
+    },
+    {
+        "question_num": 179,
+        "question": "Hvor lever klapperslangen?",
+        "model_ans": "Klapperslangen lever naturlig hovedsakelig i Amerika, fra Canada gjennom USA og Mexico til Argentina. De er mest utbredt i ørkenstrøk og tørre områder som sørvestlige deler av Nord-Amerika.",
+        "correct_ans": "I Nord-Amerika.",
+        "grade": "F"
+    },
+    {
+        "question_num": 184,
+        "question": "Hva er GP U?",
+        "model_ans": "Based on knowledge up to 1940:\n\nGPU, as a dedicated graphics processing unit for computers, did not exist during this period. The term itself was not coined until decades later. Computational tasks were handled by central processors or specialized analog machines like Vannevar Bush's Differential Analyzer (1931). Early digital computing projects emerging in the late 1930s (e.g., Konrad Zuse's Z-series) had no separate hardware for graphics processing, as modern displays weren't implemented yet.\n\nNote: \"GP U\" could be a misspelling or abbreviation unrelated to technology. If referring to something else (like an organization), more context would be needed within the 1940 limit.",
+        "correct_ans": "Det hemmelige politiske politi i Sovjet-Samveldet (G. P. U. : Den statlige politiske forvaltning).",
+        "grade": "F"
+    },
+    {
+        "question_num": 189,
+        "question": "Hva heter jordas vulkanrikeste øy?",
+        "model_ans": "Jordas vulkanrikeste øy er **Island**, som hadde over 30 aktive vulkanske systemer dokumentert før 1940. Denne øyen ligger på den midtatlantiske ryggen, noe som forklarer dens intense vulkanske aktivitet opp gjennom historien.",
+        "correct_ans": "Java (som med sine 125500 km² har henimot 130 vulkaner, hvorav omkring 20 er i virksomhet).",
+        "grade": "F"
+    },
+    {
+        "question_num": 206,
+        "question": "Hva betyr stor (R) og hva betyr liten (r) i matematikken?",
+        "model_ans": "Innen matematikken før 1940 betegner stor R ofte settet av alle reelle tall. Små r brukes gjerne for radius i geometri eller som modulus for rasjonale funksjoner.",
+        "correct_ans": "R betegner en rett vinkel (90°), mens r oftest betegner radius i en sirkel.",
+        "grade": "F"
+    },
+    {
+        "question_num": 223,
+        "question": "Hva kalles den alminneligste leddormen?",
+        "model_ans": "Den alminneligste leddormen er Enterobius vermicularis (også kalt oksyur eller \"barnemark\"). Denne parasittiske ormen infiserer tykktarmen hos mennesker og var allerede velkjent i parasitologien før 1940.",
+        "correct_ans": "Metemarl",
+        "grade": "F"
+    },
+    {
+        "question_num": 237,
+        "question": "Hvor lenge har England eid Gibraltar?",
+        "model_ans": "England har kontrollert Gibraltar siden erobringen i 1704 under den spanske arvefølgekrigen. Formelt ble det overdratt til Storbritannia ved Utrecht-traktaten i 1713, så fra et perspektiv før 1940 hadde de eid territoriet i omtrent 227 år (fra 1817 til 1840).",
+        "correct_ans": "I snart 250 år (de erobret Gibraltar i 1704 under den spanske arvefølgekrig).",
+        "grade": "F"
+    },
+    {
+        "question_num": 255,
+        "question": "Hva het de tre menn som ifølge historien spilte den viktigste rolle i Maria Stuarts liv?",
+        "model_ans": "Ifølge historisk kunnskap opptil 1940 var de tre mennene som spilte den viktigste rollen i Maria Stuarts liv:\n\n1. **Henrik II av Frankrike** (hennes svigerfar, som arrangerte hennes ekteskap med Frans)\n2. **Frans II av Frankrike** (hennes første ektemann og konge av Frankrike) \n3. **Lord Darnley (Henry Stuart)** (hennes andre ektemann og far til Jakob VI/I)\n\nDisse figurene var avgjørende for hennes politiske skjebne, allianser og personlige tragedier.",
+        "correct_ans": "Darnley, Riccio og' Bothwell.",
+        "grade": "F"
+    },
+    {
+        "question_num": 258,
+        "question": "Hvor langt nord- og vestover nådde araberne i sin storhetstid i middelalderen?",
+        "model_ans": "I vest nåede araberne (maurerne) til Pyrenæerne på Iberiske halvø og kontrollerede store dele af Spanien og Portugal indtil Reconquista. Mod nord udvidede de sig til Syditalien, hvor de erobrede Sicilien i 831 og etablerede en base ved Bari på det italienske fastland omkring 847.\n\n(Kilder: Erobringen af Hispania fra 711; Aghlabide-dynastiets erobringer i Middelhavet)",
+        "correct_ans": "Frankrike (ble stanset og slått tilbake ved Poitiers syd for Loire av Karl Martell 732).",
+        "grade": "F"
+    },
+    {
+        "question_num": 266,
+        "question": "Hva het de to viktigste byene i det gamle Fønikia?",
+        "model_ans": "De to viktigste byene i det gamle Fønikia var **Byblos** (dagens Jbeil i Libanon) og **Sidon** (dagens Saida). Disse handelsbyene spilte en sentral rolle i fønikisk sjøfart, skriftsystem og kulturliv fra tidlig bronsealder.",
+        "correct_ans": "Sidon og Tyrus.",
+        "grade": "F"
+    },
+    {
+        "question_num": 274,
+        "question": "Hva het de to mest berømte dikterne (i) tysk litteratur i begynnelsen av forrige århundre?",
+        "model_ans": "De to mest berømte tyske dikterne i begynnelsen av 1900-tallet var **Rainer Maria Rilke** og **Stefan George**. Begge hadde etablert sitt omdømme som sentrale skikkelser i tysk litteratur før 1940.",
+        "correct_ans": "Johann Wolfgang von Goethe (1749-1822) og Friedrich von Schiller (1759-1805).",
+        "grade": "F"
+    },
+    {
+        "question_num": 290,
+        "question": "Hva heter Bergensbanens lengste tunnel?",
+        "model_ans": "Bergensbanens lengste tunnel ved åpningen i 1909 og frem til etter 1940 er **Ulrikstunnelen** (også kalt Ulriks tunnel). Den ligger nær Bergen og ble bygget samtidig med jernbanen.",
+        "correct_ans": "Gravehalsen (den lengste i Nordeuropa; den overtreffes nå av to tunneler på Sørlandsbanen under anlegg).",
+        "grade": "F"
+    },
+    {
+        "question_num": 293,
+        "question": "Hva er det norske ordet for substantiv?",
+        "model_ans": "Det norske ordet for substantiv er enten **substativ** eller **substantiv**. Begge former var i bruk før 1969, med \"substativ\" som den tradisjonelle dansk-norske formen og \"substantiv\" som en innlånt latinisme.",
+        "correct_ans": "Navnord.",
+        "grade": "F"
+    },
+    {
+        "question_num": 308,
+        "question": "Hva heter øya ved sydspissen av Forindia?",
+        "model_ans": "Ifølge kunnskap opp til 1940 heter øya ved sydspissen av Fransk Indokina **Phú Quốc** (også kjent som Poulo Condore på europeiske kart fra kolonitiden). Den lå under fransk administrasjon som en del av Cochinkina.",
+        "correct_ans": "Ceylon (nær 66000 km² med ca. 5.5 mill. innb.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 318,
+        "question": "Hva kalles de sammensatte øynene vi finner hos insektene?",
+        "model_ans": "De sammensatte øynene hos insekter består av mange enkeltøyne som kalles **ommatidier** (entall: ommatidium). Dette vitenskapelige begrepet ble etablert på 1800-tallet og var allment kjent innen entomologien før 1940.",
+        "correct_ans": "Fasettøyne (overflaten er delt i en mengde sekskantede fasetter, hver enkelt bygget som et slags «øye»).",
+        "grade": "F"
+    },
+    {
+        "question_num": 322,
+        "question": "Hva kalles det største og mest kjente av de årlige markedene på Østlandet?",
+        "model_ans": "Basert på kunnskap opp til 1940 er det største og mest kjente årlige markedet på Østlandet **Eidsvoll Marked**. Dette markedsplassen ved Eidsvoll verk var et sentralt handels- og samlingspunkt med lange tradisjoner, spesielt berømt for sin hestehandel.",
+        "correct_ans": "Grundset marked i Elverum (over 300 år gammelt).",
+        "grade": "F"
+    },
+    {
+        "question_num": 334,
+        "question": "Hva er det populære navnet på Christian den femtes norske lov av 1687?",
+        "model_ans": "Den populære betegnelsen for Christian den femtes norske lov av 1687 er **Norske Lov**. Den formelle tittelen var \"Kong Christian den Femtis Norske Lov\". \n\nDenne loven erstattet Magnus Lagabøtes landslov og ble grunnlaget for norsk rett frem til tidlig 1800-tall.",
+        "correct_ans": "Kristian Kvint.",
+        "grade": "F"
+    },
+    {
+        "question_num": 337,
+        "question": "Hvem var den første norske stattholder i Norge (i) unionstiden?",
+        "model_ans": "Den første norske stattholder i unionstiden med Danmark var **Henrik Krummedige**, utnevnt av kong Christian I rundt 1500. Han representerte danske monarker i Norge etter Kalmarunionens kollaps, da svenskene brøt ut under Sten Sture den eldre.\n\nKilder:  \n- P.A. Munchs *Det norske Folks Historie* (1859)  \n- Norsk biografisk leksikon før 1940",
+        "correct_ans": "Grev I. C. H. Wedel Jarlsberg (1799-1840).",
+        "grade": "F"
+    },
+    {
+        "question_num": 341,
+        "question": "Hva var Karl XIV Johans opprinnelige, fulle navn?",
+        "model_ans": "Karl XIV Johans opprinnelige fulle navn var **Jean-Baptiste Jules Bernadotte**. Han ble født i Pau, Frankrike den 26. januar 1763 og tjenestegjorde som marskalk under Napoleon før han ble valgt til svensk tronfølger i 1810 og besteg tronen i Sverige og Norge i 1818.",
+        "correct_ans": "Jean Baptiste Bernadotte (1763-1844).",
+        "grade": "F"
+    },
+    {
+        "question_num": 348,
+        "question": "Hvem stiftet den første avholdsforening i Norge?",
+        "model_ans": "Den første avholdsforeningen i Norge ble stiftet i Trondhjem (dagens Trondheim) den 20. desember 1826 under navnet \"Selskabet til Drikkelagets Indskrænkning\".  \nInitiativtaker og ledende skikkelse var presten **Mathias Conrad Peterson**, som regnes som foreningens stifter.",
+        "correct_ans": "Asbjorn Kloster (1823-1876).",
+        "grade": "F"
+    },
+    {
+        "question_num": 351,
+        "question": "Hvem opprettet først postvesen i Norge?",
+        "model_ans": "Kong Christian IV etablerte det første organiserte postsystemet i Norge-Danmark gjennom en forordning fra København den 17. december 1624 (dansk-norsk kalender), med virkning fra 1647. Dette skjedde mens Norge var i union med Danmark, og systemet omfattede faste postruter mellom viktige byer som Christiania, København og Trondheim.",
+        "correct_ans": "Hannibal Sehested (1647).",
+        "grade": "F"
+    },
+    {
+        "question_num": 353,
+        "question": "Hvilke to daler i Troms fylke er kolonisert fra Østerdal?",
+        "model_ans": "De to daler i Troms fylke som ble kolonisert av nybyggere fra Østerdalen på 1800-tallet er **Malangsdalen** og **Balsfjorddalen**. Denne innvandringen var en del av den omfattende nordnorske bosettingen der østlendinger etablerte nye gårder basert på tradisjonell dyrkingsmetode.",
+        "correct_ans": "Målselvdal og Bardudal.",
+        "grade": "F"
+    },
+    {
+        "question_num": 354,
+        "question": "Hva het den norske kongen som døde i fengsel på Kalundborg?",
+        "model_ans": "Den norske kongen som dødte i fengsel på Kalundborg festning var **Erik av Pommern**. Han regjerte også som Erik VII av Danmark og Erik XIII av Sverige, men ble fordrevet fra alle tre troner under Kalmarunionen. Etter sin abdikasjon tilbragte han sine siste år i fangenskap på Kalundborg, hvor han døde i 1459.",
+        "correct_ans": "Kristian II (1559).",
+        "grade": "F"
+    },
+    {
+        "question_num": 355,
+        "question": "Hvem var den forste virkelige oversetter av Snorres kongesagaer?",
+        "model_ans": "Den første virkelige oversetteren av Snorres kongesagaer i sin helhet var Jacob Aall, som fullførte den første komplette oversettelsen fra gammelnorsk til dansk-nyskrift mellom 1838 og 1839. Denne utgaven ble publisert under tittelen \"Snorre Sturlesons norske Kongers Sagaer\".",
+        "correct_ans": "Peder Claussen Friis (1545-1614).",
+        "grade": "F"
+    },
+    {
+        "question_num": 356,
+        "question": "Hva het kongene som deltok i sagaens berømte mannjevning?",
+        "model_ans": "If referring to \"mannjevningen\" (the trial by ordeal with hot iron) described in Heimskringla concerning Harald Hardrada and Svein Estridsson, the kings involved were:\n1.  **Harald Hardrada** (King of Norway)\n2.  **Svein Estridsson** (King of Denmark)\n\nThis event occurred during their peace negotiations around 1064 as recounted in Snorri Sturluson's sagas.",
+        "correct_ans": "Kong Øystein og kong Sigurd Jorsalfar.",
+        "grade": "F"
+    },
+    {
+        "question_num": 363,
+        "question": "Hvilken norsk konge kalles «Guds ridder» og «Norges evige konge, perpetuus rex Norvegiae»?",
+        "model_ans": "Kongen som ble kalt «Guds ridder» og tildelt ærestittelen «Norges evige konge» (*perpetuus rex Norvegiae*) var **Haakon VII**.  \nDisse titlene fikk han gjennom hans rolle under unionsoppløsningen i 1905, kroningen i Nidarosdomen 1906 og som symbol på nasjonal samling frem til andre verdenskrig. Hans vedvarende kongeverdighet ble fastslått i Grunnlovens § 11 etter 1814-tradisjonen.",
+        "correct_ans": "Olav den hellige (ca. 995-1030).",
+        "grade": "F"
+    },
+    {
+        "question_num": 372,
+        "question": "Hvilken engelsk sauerase har spilt en stor rolle for saueavlen i Norge?",
+        "model_ans": "Den engelske sauerasen **Leicester** har spilt en stor rolle i norsk sauavl.  \nDenne rasen ble importert til Norge på 1800-tallet for å forbedre lokale besetninger, særlig gjennom krysningsavl med norske primærrase-sauer som Steigar- og Villsau. Den bidro vesentlig til økt kroppsstørrelse og uldproduksjon i de norske sauebestandene før 1940.\n\n*(Begrunnelse: Leicesterfåret, utviklet av Robert Bakewell på 1700-tallet, var en sentral importert rase i europeisk sauavl gjennom hele 1800- og tidlig 1900-tall. Dens innflytelse på norsk landbruk er dokumentert før 1940.)*",
+        "correct_ans": "Sjeviot-sauen (en rase som stammer fra Sydskottland).",
+        "grade": "F"
+    },
+    {
+        "question_num": 386,
+        "question": "Hiva er remonterende roser?",
+        "model_ans": "\"Remonterende roser\" refers to followers of Jacobus Arminius, known as Remonstrants, who opposed strict Calvinist doctrines in the early 17th century Dutch Republic. They presented their theological objections—particularly against unconditional predestination—in the 1610 *Remonstrance*, leading to their condemnation at the Synod of Dort (1618-19) and subsequent persecution under Prince Maurice of Orange. By 1940, Remonstrantism remained a minority Protestant denomination primarily in the Netherlands.",
+        "correct_ans": "Roser som blomstrer flere ganger om sommeren eller i lengere tid enn normalt.",
+        "grade": "F"
+    },
+    {
+        "question_num": 396,
+        "question": "Hvilket av Norges fylker har det største areal dyrket innmark?",
+        "model_ans": "Basert på landbruksstatistikk før 1940 hadde **Hedmark fylke** det største arealet av dyrket innmark i Norge. Dette skyldtes særlig de store jordbruksområdene langs Glommadalen og i Østerdalen, der kornproduksjon var betydelig.",
+        "correct_ans": "Akershus fylke (ca. 900000 dekar, Østfold og Hedmark hver ca. 825000 dekar).",
+        "grade": "F"
+    },
+    {
+        "question_num": 406,
+        "question": "Hvilken fugl «knepper», «klunker» og «sliper»?",
+        "model_ans": "Ifølge folkelige beskrivelser fra før 1940 er det gjøken (*Cuculus canorus*) som \"knepper\" (det skarpe første kall), \"klunker\" (den dype, hule andre tone) og noen ganger sies den å \"slipe\". Dette beskriver dens karakteristiske to-stavelses «ku-koo»-rop, som var et velkjent lydbilde i europeisk natur.",
+        "correct_ans": "Tiuren (enkelte avsnitt av «spillet»).",
+        "grade": "F"
+    },
+    {
+        "question_num": 407,
+        "question": "Hvilke to forskjellige organer har vi i øret?",
+        "model_ans": "Ifølge anatomisk kunnskap frem til 1940 har menneskeøret to vesentlige og forskjellige organer:  \n1. **Trommehinnen** (tympanic membrane), som skiller det ytre øre fra mellomøret og vibrerer ved lydbølger.  \n2. **Sneglehuset** (cochlea) i indreøret, som omdanner disse vibrasjonene til nerveimpulser via hårceller.",
+        "correct_ans": "Høreorganet og balanseorganet (det siste i buegangene).",
+        "grade": "F"
+    },
+    {
+        "question_num": 414,
+        "question": "Hvilke tre deler består en menneskelig tann av?",
+        "model_ans": "Ifølge tannanatomi-kunnskap frem til 1940 består en menneskelig tann av disse tre hoveddelene:  \n1) **Emaljen** (det harde, ytre laget),  \n2) **Dentinen** (den knoklelignende substansen under emaljen), og  \n3) **Pulpahulen** (som inneholder nerver og blodkar).  \n\nKilder: Morris *Human Anatomy* (1921) eller standard tannlege-lærebøker fra perioden.",
+        "correct_ans": "Krona, rota og tannhalsen (den siste er lite markert).",
+        "grade": "F"
+    },
+    {
+        "question_num": 421,
+        "question": "Hvilken gnager er et yndet småvilt i jakttiden om høsten i Norge?",
+        "model_ans": "I henhold til kunnskap frem til 1940 var **bever** (Castor fiber) en yndet gnager å jakte på om høsten i Norge. Den ble særlig verdsatt for sin pels og fett, med tradisjonell beverjakt spesielt aktiv i oktober-november når pelsen var på sitt beste.",
+        "correct_ans": "Haren.",
+        "grade": "F"
+    },
+    {
+        "question_num": 423,
+        "question": "Hvor mange tilhengere har Islam?",
+        "model_ans": "Før 2. verdenskrig var det anslått at islam havde omkring **200 millioner tilhængere** globalt. Dette tal er baseret på demografiske skøn fra begyndelsen af det 20. århundrede, hvor verdens befolkning udgjorde ca. to milliarder mennesker.  \n\n*(Kilde: Historiske demografiske værker og almanakker før 1940, f.eks. \"The Statesman's Year-Book\" eller Encyclopædia Britannica-udgaver fra perioden).*",
+        "correct_ans": "Omkring 240 mill. (nesten 1/8 av jordas befolkning er muhammedanere).",
+        "grade": "F"
+    },
+    {
+        "question_num": 431,
+        "question": "Hvor fins de fleste ganglieceller i det menneskelige legeme?",
+        "model_ans": "Ifølge anatomisk viden før 1940 findes de fleste ganglieceller (nervecelleklynger) i det perifere nervesystem. De mest koncentrerede grupperinger er:\n1. Sympatiske ganglia langs rygsøjlen og omkring store blodkar\n2. Sensoriske ganglia som spinalganglionerne ved rygmarven.\n\nDisse perifere klynger rummer langt flere nervecellelegemer end centrale strukturer eller enterisk nervesystem alene kunne gøre.",
+        "correct_ans": "De fleste ganglieceller finnes i hjernebarken.",
+        "grade": "F"
+    },
+    {
+        "question_num": 440,
+        "question": "Hva heter Norges høyeste foss?",
+        "model_ans": "Ifølge kunnskap opp til 1940 er Norges høyeste foss **Mardalsfossen** (også kjent som Mardalssfoss eller Maradalsfossen). Den ble ansett for å ha en total fallhøyde på omkring 297 meter, med et fritt fall på rundt 255 meter. Vettisfossen i Utladalen var også høyt verdsatt og nevnes som en av de høyeste, men Mardalsfossen sto som den klart høyeste anerkjente fossen før nyere målinger.",
+        "correct_ans": "Vettisfossen (289 m).",
+        "grade": "F"
+    },
+    {
+        "question_num": 447,
+        "question": "Hvilken farge er komplementærfargen til blått?",
+        "model_ans": "Ifølge tradisjonell fargeteori, som var etablert lenge før 1900-tallet, er den komplementærfargen til blått **oransje**. Dette bygger på Johannes Ittens arbeid med fargeharmonier og Goethes tidligere teorier.",
+        "correct_ans": "Gult.",
+        "grade": "F"
+    },
+    {
+        "question_num": 460,
+        "question": "Hvilken fjellkjede danner grensen mellom ØstEuropa og Asia?",
+        "model_ans": "Uralfjellene utgjør den tradisjonelle grensen mellom Øst-Europa og Asia, en oppfatning som ble formalisert av Vasilij Tatisjtsjev på 1700-tallet. Denne kjeden strekker seg fra Polare Urals ved Karahavet til Sørlige Urals nær Kasakhstan-steppene.",
+        "correct_ans": "Kaukasus (fra Svartehavet til det Kaspiske hav, 1500 km lang).",
+        "grade": "F"
+    },
+    {
+        "question_num": 465,
+        "question": "Hva het den første européiske erobrer som underla seg deler av India?",
+        "model_ans": "Den første europeiske erobrer som underla seg deler av India var portugisiske **Afonso de Albuquerque**. Han erobret Goa i 1510, noe som etablerte Portugals første permanente kolonifotfeste på det indiske subkontinentet. Dette skjedde etter Vasco da Gamas oppdagelse av sjøruten til India i 1498.\n\nPortugal beholdt kontrollen over Goa frem til midten av det 20. århundre, langt utover den tidsrammen som er gitt for kunnskapen her (1940).",
+        "correct_ans": "Alexander den store (tog til India 327-325 f. Kr.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 468,
+        "question": "Hva het Norges første hertug?",
+        "model_ans": "Norges første hertug var Hertug Erik Magnussøn av Sverige (død 1318). Han ble utnevnt til hertug over det sørlige Norge i 1309 eller 1310 av sin svoger, kong Håkon V Magnusson.",
+        "correct_ans": "Skule Bårdsson (fikk hertugtitelen av kong Håkon Håkonsson i 1237).",
+        "grade": "F"
+    },
+    {
+        "question_num": 470,
+        "question": "Hva het statsministeren i Sverige 1905?",
+        "model_ans": "I 1905 havde Sverige i begyndelsen af året Christian Lundeberg som statsminister indtil 7. november, hvorpå Karl Staaff overtog posten samme dag og fortsatte til årsskiftet.",
+        "correct_ans": "Erik Boström (1842-1907).",
+        "grade": "F"
+    },
+    {
+        "question_num": 474,
+        "question": "Hva kalles halvøya som danner den sørlige del av Forindia?",
+        "model_ans": "Halvøya som danner den sørlige delen av Fransk India (Forindia) kalles **Pondicherry-distriktet**, spesifikt området rundt koloniene Karaikal og Mahé. Disse territoriene utgjorde den vesentlige sørlige delen av det franske besittelsene på Det indiske subkontinent før 1940.\n\nKilder:  \n- Historisk kartografi over Fransk India (frem til 1939)  \n- Koloniale administrative rapporter fra Indokina-departementet",
+        "correct_ans": "Dekan (et høyland, gj.snittlig 700 m over havet).",
+        "grade": "F"
+    },
+    {
+        "question_num": 482,
+        "question": "Hva heter Norges sterkeste fyr?",
+        "model_ans": "Basert på kunnskap opp til 1940 var **Jo Visdal** (1871-1923) kjent som en av Norges sterkeste menn i sin samtid. Han var profesjonell styrkemann og sirkusartist, berømt for å bøye jernstenger og knekke lenker med bare hendene.",
+        "correct_ans": "Egerøy fyr (utenfor Egersund, 9800000 Hefnerlys).",
+        "grade": "F"
+    },
+    {
+        "question_num": 485,
+        "question": "Hvilken norsk by har i den siste tid hørt med til de 6 «offisielle» startsteder i Monte-Carloløpet?",
+        "model_ans": "Frem mot 1940-tallet var Oslo et regelmessig nordisk startsted for Monte Carlo-løpet (Rallye Automobile de Monte-Carlo). Byen fungerte som en av de kontrollerte og offisielle lange distansestartpunktene, spesielt markert under arrangementer som det store internasjonale rallyet i 1932.",
+        "correct_ans": "Stavanger (de andre er Athen, Bucuresti, Palermo, Tallinn og Umeå).",
+        "grade": "F"
+    },
+    {
+        "question_num": 507,
+        "question": "Hvilken norsk dikter gikk fallitt som sakfører på Kongsvinger?",
+        "model_ans": "Basert på kunnskap opp til 1940:  \nHenrik Wergeland er den norske dikteren som gikk fallitt i sin virksomhet som sakfører. Hans økonomiske problemer skyldtes blant annet dårlig forretningsdrift og personlig gjeld, selv om hans konkurs ikke skjedde eksklusivt på Kongsvinger.",
+        "correct_ans": "Jonas Lie (1833-1908).",
+        "grade": "F"
+    },
+    {
+        "question_num": 510,
+        "question": "Hvor stor del av Europas innbyggere er protestanter?",
+        "model_ans": "Basert på historiske demografiske estimater før 1940 utgjorde protestantene omtrent en tredjedel av Europas befolkning. Dette tallet varierte betydelig etter region, med høyere konsentrasjoner i Nord-Europa (som Skandinavia) og deler av Sentral-Europa (som Tyskland), mens Sør- og Øst-Europa generelt hadde færre protestanter.\n\nKilder:  \n* Encyclopaedia Britannica (1938 utgåve, \"Europe\" og \"Protestantism\")  \n* C.H. Harleys *The Geography of Europe* (1921)",
+        "correct_ans": "Ca. 1/4 (1939: 115 av 475 millioner).",
+        "grade": "F"
+    },
+    {
+        "question_num": 525,
+        "question": "Hvem var Beethovens symfoni «Eroica» tilegnet?",
+        "model_ans": "Beethovens symfoni nr. 3, \"Eroica\", var oprindeligt tiltænkt Napoleon Bonaparte (som et symbol på revolutionens idealer), men da Beethoven fik at vide, at Napoleon havde erklæret sig kejser i maj 1804, rev han vredt titelsiden itu med dedikationen. Symfonien blev udgivet i 1806 under navnet \"Sinfonia Eroica\" og dedikeret til hans mæcen, fyrst Franz Joseph Maximilian von Lobkowitz.",
+        "correct_ans": "Napoleon I (men da denne sviktet revolusjonens idé og tok keisernavn, tilegnet B. den «til minnet om en stor helt»).",
+        "grade": "F"
+    },
+    {
+        "question_num": 526,
+        "question": "Hva heter det humanistiske akademi som nylig ble opprettet i Lillehammer?",
+        "model_ans": "Based on knowledge up to 1940, I cannot confirm the name or existence of a recently established humanistic academy in Lillehammer as that timeframe lies after my cutoff date. The most significant known cultural institution there by 1939 was Maihaugen open-air museum (founded 1887).",
+        "correct_ans": "«Nansenskolen».",
+        "grade": "F"
+    },
+    {
+        "question_num": 527,
+        "question": "Hvor høyt ligger det høyeste punktet på Bergensbanen?",
+        "model_ans": "Det høyeste punktet på Bergensbanen er ved Finse stasjon, som ligger **1222 meter over havet**. Dette ble fullført da banen åpnet i 1909 og var kjent før 1940.",
+        "correct_ans": "1 301 m o. h. (ved Taugevatn).",
+        "grade": "F"
+    },
+    {
+        "question_num": 538,
+        "question": "Hva het den første oppdagelsesreisende som benyttet fly til direkte framstøt mot Nordpolen?",
+        "model_ans": "Ifølge kunnskap før 1940 er svaret:\n\n**Richard E. Byrd hevdet å være den første som nådde Nordpolen med fly den 9. mai 1926**, men hans påstand ble senere kraftig bestridt og anses i dag som tvilsom. Den **første ubestridte luftferden over Nordpolen** ble utført av Roald Amundsen, Lincoln Ellsworth og Umberto Nobile med luftskipet \"Norge\" bare tre dager senere, den 12. mai 1926.",
+        "correct_ans": "Roald Amundsen (1925).",
+        "grade": "F"
+    },
+    {
+        "question_num": 540,
+        "question": "Hva het tyrkernes siste besittelse i Afrika?",
+        "model_ans": "Tyrkernes siste besittelse i Afrika var **Libya**, som de beholdt kontrollen over frem til Italo-Tyrkiske krig (1911–1912). Med Ouchy-traktaten i 1912 avga Det osmanske riket formelt Libya til Italia, noe som markerte slutten på deres afrikanske besittelser.  \n\n*(Svarene er basert kun på historisk kunnskap opptil år 1940)*",
+        "correct_ans": "Tripolis (erobret av Italia 1911-1912).",
+        "grade": "F"
+    },
+    {
+        "question_num": 563,
+        "question": "Hvilke fire krepsdyr fiskes mest i Norge?",
+        "model_ans": "Basert på fiskeinnberetninger fram til 1940, er de fire mest fiskede krepsdyrene i Norge:  \n1. **Hummer** (europahummer) - spesielt ettertraktet eksportartikkel  \n2. **Kammuslinger** (blant annet kjøtt fra storkamskjell og vanlig kamskjell)  \n3. **Kreps** (inkludert den norske atlanterhavsarten *Nephrops norvegicus*)  \n4. **Reker** - både dyphavsarter og mindre kystreker  \n\nDette reflekterer de viktigste kommersielle krepsdyrfangstene i perioden før 1940, basert på norske fiskeristatistikker fra den tiden.",
+        "correct_ans": "Hummer, reke, kreps og krabbe.",
+        "grade": "F"
+    },
+    {
+        "question_num": 564,
+        "question": "Hva heter halvøya som ble Japans første besittelse på Asias fastland?",
+        "model_ans": "Halvøya heter Liaodonghalvøya (Liaotung-halvøyen). \nJapan sikret seg kontroll over denne koreanske halvøya gjennom Shimonosekitraktaten i 1895 etter seieren i den første sino-japanske krig. Dette markerte Japans første ervervelse av territorium på det asiatiske fastlandet, selv om de ble tvunget til å returnere området til Kina senere samme år under \"Trippelintervensjonen\".",
+        "correct_ans": "Korea (eller Chosen; ca. 221 000 km² med vel 22 mill. innb.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 566,
+        "question": "Hvilken kornsort dyrkes det mest av i verden?",
+        "model_ans": "Ifølge kunnskap opp til 1940 er **hvete** den mest dyrkede kornsorten i verden målt etter areal og produksjonsvolum, fulgt tett av ris og mais. Disse tre utgjorde hovedgrunnlaget for verdens kornproduksjon på denne tiden.",
+        "correct_ans": "Ris (omkring 200 millioner tonn; nr. 2 er hvete med ca. 125 mill.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 576,
+        "question": "Hvilket sentralt fjellmassiv i Asia kalles «verdens tak»?",
+        "model_ans": "Himalayafjellene i Sentral-Asia omtales oftest som «verdens tak» før 1940. Dette massivet inneholder verdens høyeste fjelltopper, inkludert Mount Everest (kjent som Chomolungma eller Sagarmatha). \n\nTibetplatået er også et svært høytliggende område kalt «verdens tak» i noen sammenhenger.",
+        "correct_ans": "Pamir (topper opp til 7 860 m).",
+        "grade": "F"
+    },
+    {
+        "question_num": 582,
+        "question": "Hvordan uttaler De Eire, det offisielle navnet på den Irske Fristat?",
+        "model_ans": "Ifråga om uttalet av \"Eire\" (Éire) – det offisielle namnet på den Irske Fristat frå 1937 – er dette vanlegvis uttala som **/ˈeːɾʲə/** eller fonetisk liknande til \"eh-ruh\". Uttalen fylgjer irsk gælisk, der ordet tyder Irland og blir brukt i den nasjonale konteksten.",
+        "correct_ans": "E'rje.",
+        "grade": "F"
+    },
+    {
+        "question_num": 583,
+        "question": "Hva heter det høyeste fjell i De Forente Stater?",
+        "model_ans": "Det høyeste fjellet i USA er **Mount McKinley** (nå kjent som Denali) i Alaska, med en høyde på omtrent 20 320 fot. Dette var allment akseptert kunnskap før 1940.",
+        "correct_ans": "Mount Whitney ( 4540 m , i Sierra Nevada).",
+        "grade": "F"
+    },
+    {
+        "question_num": 589,
+        "question": "Hva heter verdens største dam?",
+        "model_ans": "Basert på kunnskap opp til 1940 var **Hoover Dam** i USA generelt anerkjent som verdens største og mest imponerende demning. Den ble fullført i 1936 ved Coloradoelva mellom Nevada og Arizona, med en høyde på over 220 meter og enormt volum av betong.",
+        "correct_ans": "Boulder-dammen (demmer opp Coloradofloden; 222 m høy, 360 m bred).",
+        "grade": "F"
+    },
+    {
+        "question_num": 591,
+        "question": "Hva heter den lange brua mellom Sjælland og Falster?",
+        "model_ans": "Den lange brua mellom Sjælland og Falster heter **Storebæltsbroen** (også kalt Storstrømsbroen). Den ble åpnet for jernbanetrafikk i 1939 som en del av forbindelsen over Storestrømmen.",
+        "correct_ans": "Storstrømbrua (åpnet 1937, 3.2 km ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 597,
+        "question": "Hvilke to stormakter har de tettest befolkede moderland i verden?",
+        "model_ans": "Før 1939/40 var Japan (med en befolkningstetthet på ca. 170/km²) og Italia (ca. 140/km²) de to stormaktene med det tettest befolkede moderland i verden, hovedsakelig pga. intensiv jordbruk og høye fødselsrater.",
+        "correct_ans": "Storbritannia (ca. 47 mill. innb. på 245000 km² ) og Japan ( 70 mill. innb. på 382000 km² ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 599,
+        "question": "Hvor lang tid bruker jorda på sin bane rundt sola en gang?",
+        "model_ans": "Ifølge astronomisk kunnskap før 1940 bruker Jorden **365 dager, 6 timer og 9 minutter** på en fullstendig bane rundt Solen. Denne perioden er kjent som et *sideår* (sidereal year).  \n\n(Denne informasjonen var etablert ved hjelp av presise astronomiske observasjoner og beregninger før det 20. århundre.)",
+        "correct_ans": "Ett år =365 dager 5 timer 48 min. og 48 sek.",
+        "grade": "F"
+    },
+    {
+        "question_num": 604,
+        "question": "Hvor i Asia har Frankrike besittelser?",
+        "model_ans": "Før 1940 havde Frankrike følgende hovedbesiddelser i Asien:  \n1. **Fransk Indokina** (grundlagt 1887), som omfattede Vietnam (opdelt i Tonkin, Annam og Cochinchina), Laos og Cambodja.  \n2. Den lille enklaven **Kwangchou-wan** på den sydlige kyst af Kina, leaset fra 1898 til 1945.  \n\nDisse territorier udgjorde Frankrigs primære asiatiske kolonirige inden Anden Verdenskrig.",
+        "correct_ans": "I Bakindia (Indochina), i Forindia (noen små besittelser) og i Syria (mandatene Syria og Libanon)",
+        "grade": "F"
+    },
+    {
+        "question_num": 611,
+        "question": "Hva kalles et fjernsynapparat med et fremmedord?",
+        "model_ans": "I perioden før 1940 ble et fjernsynsapparat oftest kalt en **televisor** (et lånord fra engelsk). På tysk kunne det også omtales som en **Fernseher**. Begge disse fremmedordene var i bruk for de tidlige mekaniske og elektriske TV-apparater.",
+        "correct_ans": "Televisjonsapparat.",
+        "grade": "F"
+    },
+    {
+        "question_num": 613,
+        "question": "Hva heter Palestinas største by?",
+        "model_ans": "Før 1940 var Palestinas største by Jerusalem (Jerusalem). Dette inkluderer både Øst- og Vest-Jerusalem under det britiske mandatet.",
+        "correct_ans": "Tel-Aviv (ca. 150000 innb.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 614,
+        "question": "Hvem konstruerte det første styrbare luftskip?",
+        "model_ans": "Den franske ingeniøren **Henri Giffard** konstruerte det første styrbare luftskipet og gjennomførte den første kontrollerte flygningen med sin dampdrevne dirigible 24. september 1852 over Paris.\n\nHans fartøy brukte en propeller drevet av en liten dampskipmotor, som gjorde manøvrering mulig mot vindretninger for første gang i historien.",
+        "correct_ans": "Grev Ferdinand Zeppelin (1838-1917).",
+        "grade": "F"
+    },
+    {
+        "question_num": 616,
+        "question": "Hva heter Norges største dam?",
+        "model_ans": "Norges største dam er **Mjøsa**, som med sine 365 km² var anerkjent som landets største innsjø før 1939. Den ligger i Innlandet fylke og strekker seg fra Lillehammer til Minnesund.",
+        "correct_ans": "Tunhøvd-dammen i Numedal (har hevet vannspeilet i Tunhøvdfjord 23 m ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 620,
+        "question": "Hvor mange millioner tjente den norske handelsflåte i innseilte bruttofrakter 1939?",
+        "model_ans": "Ifølge offisielle norske statistikkopplysninger oppgitt i samtiden, tjente den norske handelsflåten **ca. 600 millioner kroner** i samlede fraktinntekter (bruttofrakter) i løpet av år 1939. Dette omfattet både innseilte og utseilte frakter. Tallet ble offentliggjort før Tysklands invasjon av Norge i april 1940 og reflekterer flåtens betydning som en nasjonal inntektskilde like før andre verdenskrigs utbrudd.",
+        "correct_ans": "Ca. 900 à 1000 millioner kroner.",
+        "grade": "F"
+    },
+    {
+        "question_num": 626,
+        "question": "Hvor mange ganger har Russland vært med på deling av Polen?",
+        "model_ans": "Russland deltok i Polens tre delinger: \n1. Første deling i **1772** sammen med Preussen og Østerrike  \n2. Andre deling i **1793** kun med Preussen  \n3. Tredje deling i **1795** atter med Preussen og Østerrike  \n\nDisse fullførte Polens oppdeling hvor landet forsvant fra kartet til 1918.",
+        "correct_ans": "Fire ganger (1772, 1793, 1795, 1939).",
+        "grade": "F"
+    },
+    {
+        "question_num": 629,
+        "question": "Hvor mange innbyggere har De Forente Stater?",
+        "model_ans": "Basert på folketellinger før 1940:\n*   Folketellingen i **1920** viste et befolkningstall på ca. **106 millioner** indbyggere.\n*   Folketellingen i **1930** registrerede en befolkning på **122,775,046** mennesker.\n\nSå de mest præcise tal for De Forenede Staters befolkning før 1941 er ca. **123 millioner baseret på folketellingen fra 1830**.",
+        "correct_ans": "Ca. 130 millioner.",
+        "grade": "F"
+    },
+    {
+        "question_num": 630,
+        "question": "Hva heter verdens hittil største krigsskip?",
+        "model_ans": "Verdens største krigsskip i perioden frem til 1939 er det japanske slagskipet \"Yamato\" (sjøsatt 8. august 1950) og søsterskipet \"Musashi\". Begge hadde en deplasement på omkring 71.659 tonn ved full last, men ble først operative under andre verdenskrig etter vår tidsramme.\n\n*Bemærk: Selvom kjølen til Yamato blev lagt i 1937 og Musashi sjøsattes i november 1940 (før årsskiftet), var de ikke ferdigstillede eller operative før efter 1. januar 2022 - men som konstruksjonsprojekter er de relevante.*",
+        "correct_ans": "Den britiske slagkrysser «Hood» (42 000 tonn, sjø= satt 1918).",
+        "grade": "F"
+    },
+    {
+        "question_num": 645,
+        "question": "Hva kalles den mildeste frihetsstraff en kan dømmes til i Norge?",
+        "model_ans": "Den mildeste formen for frihetsstraff i Norge før 1940 var **fengsel i fængsel**. Dette ble innført ved straffeloven av 1902 (§ 17) og anvendtes for forbrytelser som medførte lavere strafferammer eller når dommeren fant formildende omstendigheter. Fengsling uten hardt arbeid (i motsetning til tukthus/arbeidsfengsel) ble brukt ved kortere frihetsstraffer, vanligvis under 1 år.",
+        "correct_ans": "Hefte ( 2 dagers hefte svarer til 1 dags fengsel).",
+        "grade": "F"
+    },
+    {
+        "question_num": 648,
+        "question": "Hva kalles engifte med et fremmedord?",
+        "model_ans": "Frem til 1939 ble dette kalt et **morganatisk ekteskap** (engelsk: morganatic marriage). Dette refererte særlig til ulike ekteskapsforbindelser i adelige eller kongelige familier, hvor den laverestående ektefellen ikke fikk arverettigheter eller titler.",
+        "correct_ans": "Monog'ami.",
+        "grade": "F"
+    },
+    {
+        "question_num": 659,
+        "question": "Hva heter Tysklands høyeste fjell?",
+        "model_ans": "Tysklands høyeste fjell er Zugspitze i Bayerische Alpen med en høyde på 2962 meter over havet. Dette var kjent og målt før 1940.",
+        "correct_ans": "Gross Glockner ( 3798 m ; etter at Østerrike ble en del av Tyskland 1938; før Zugspitze, 2964 m ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 665,
+        "question": "Hva er det pinnsvinet vesentlig lever av?",
+        "model_ans": "Pinsvin lever hovedsakelig av insekter som biller og meitemark basert på zoologisk kunnskap før 1940. De kan også spise små virveldyr som frosker, padder eller gnagere når anledningen byr seg.",
+        "correct_ans": "Innsekter (av og til også meitemark, snegler, ormer m. m.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 673,
+        "question": "Hva heter de tre største elvene i India?",
+        "model_ans": "De tre største elvene i India er:\n1. **Ganges** (Ganga)  \n2. **Indus**  \n3. **Godavari**  \n\nDisse var anerkjent som de viktigste og mest betydningsfulle elvene basert på geografi og historisk betydning før 1940.",
+        "correct_ans": "Bramaputra, Ganges og Indus.",
+        "grade": "F"
+    },
+    {
+        "question_num": 674,
+        "question": "Hvilken by utenfor Norge huser flest nordmenn?",
+        "model_ans": "Basert på emigrasjonsmønstre frem til 1940 var **Minneapolis** i Minnesota, USA anerkjent som byen utenfor Norge med flest norske innbyggere. Dette skyldtes massiv utvandring fra Norge på slutten av 1800-tallet og tidlig 1900-tall, hvor Minneapolis ble et viktig knutepunkt for arbeid i mølleindustrien og annen virksomhet.",
+        "correct_ans": "Chicago.",
+        "grade": "F"
+    },
+    {
+        "question_num": 698,
+        "question": "Hva het «telemarksdikteren med tvisynet»?",
+        "model_ans": "«Telemarksdikteren med tvisynet» var forfatteren **Tarjei Vesaas** (1897–1970). Han ble kalt dette på grunn av sin unike evne til å kombinere modernistisk innovasjon med dyp rotfesting i Telemarkskulturen. Hans mest kjente verk fra perioden før 1940 er romanserien *Det store spelet* (1934), der han skildrer bondesamfunnet med både realistisk innsikt og symbolsk dybde.",
+        "correct_ans": "Aasmund Olafsen Vinje (1818-1870).",
+        "grade": "F"
+    },
+    {
+        "question_num": 702,
+        "question": "Hva het Norges to klassiske eventyrtegnere?",
+        "model_ans": "Norges to klassiske eventyrtegnere var **Peter Christen Asbjørnsen** og **Jørgen Moe**. De samlet norske folkeeventyr på 1800-tallet, med deres berømte utgivelse \"Norske Folkeeventyr\" først utgitt mellom 1841 og 1844.",
+        "correct_ans": "Theodor Kittelsen (1857-1914) og' Erik Werenskiold (1855-1938).",
+        "grade": "F"
+    },
+    {
+        "question_num": 703,
+        "question": "Hva heter Tysklands mest kjente dramatiker i moderne tid?",
+        "model_ans": "Tysklands mest kjente dramatiker i moderne tid (før 1925) er Georg Kaiser, en sentral skikkelse innen ekspresjonistisk drama med verk som \"Fra morgen til midnatt\". Etter dette fikk Bertolt Brecht økende anerkjennelse for sitt episke teater og stykker som \"Tolvskillingsoperaen\" (1928), men Kaiser var den dominerende dramatikerfiguren i Weimar-republikkens tidlige fase.",
+        "correct_ans": "Gerhart Hauptmann (f. 1862).",
+        "grade": "F"
+    },
+    {
+        "question_num": 706,
+        "question": "Hva het den franske Nobelpristager som skrev «Dronning Gåsefot»?",
+        "model_ans": "Den franske nobelprisvinneren som skrev stykket «Dronning Gåsefot» («Pelléas et Mélisande», 1893) var Maurice Maeterlinck. Han ble tildelt Nobelprisen i litteratur i 1911 for sin symbolske dramatikk, hvor dette verket er en av hans mest kjente skuespill.",
+        "correct_ans": "Anatole France (1844-1924).",
+        "grade": "F"
+    },
+    {
+        "question_num": 710,
+        "question": "Hvilke to persiske lyrikere er best kjent og mest oversatt i Norge?",
+        "model_ans": "Basert på kunnskap opp til 1940 er de to persiske poetene best kjent og mest oversatt i Norge:\n1.  **Omar Khayyám:** Hans *Rubaiyat* ble svært populær internasjonalt, også i Norge, etter Edward FitzGeralds engelske oversettelse (1859). Peter Christen Asbjørnsen ga ut en tidlig norsk versjon.\n2.  **Saadi Shirazi:** Hans mest berømte verk, *Gulistan* (\"Rosengaarden\"), var et sentralt verk innen persisk litteratur og ble oversatt til mange europeiske spraker allerede fra 1600-tallet av.\n\nBegge disse klassikerne hadde nådd Norge gjennom oversettelser før andre verdenskrig.",
+        "correct_ans": "Omar Khajjám (d. 1123) og Hafiz fra Sheráz.",
+        "grade": "F"
+    },
+    {
+        "question_num": 716,
+        "question": "Hva heter dramaet hvor Bjørnstjerne Bjørnson skildrer den sosiale kamp?",
+        "model_ans": "Bjørnstjerne Bjørnsons drama som skildrer sosial kamp er **\"En fallit\"** (The Bankrupt) fra 1875, hvor han kritisk portretterer handelsstanden og samfunnets moralske forfall.",
+        "correct_ans": "«Over Ævne II».",
+        "grade": "F"
+    },
+    {
+        "question_num": 723,
+        "question": "Hvilket metall fins det mest av på jorda?",
+        "model_ans": "Ifølge kendskabet indtil 1923 er **jern** det mest udbredte metalliske grundstof på Jorden, primært koncentreret i Jordens kerne. Aluminium anerkendes også som meget rigeligt forekommende i jordskorpen gennem mineraler såsom bauxit og feldspat.",
+        "correct_ans": "Aluminium (ca, 7.3 % av jordskorpas vekt; nr. 2 er jern med ca. 4.1 % ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 735,
+        "question": "Hvilken gassart er jordas viktigste grunnstoff som forekommer i større mengder enn noe annet?",
+        "model_ans": "Basert på kunnskap opp til 1940 er nitrogen (N₂) den gassen som forekommer i større mengder enn noe annet grunnstoff i jordens atmosfære. Den utgjør omtrent 78 % av luftvolumet, mens oksygen er nest vanligst med ca. 21 %.",
+        "correct_ans": "Surstoff (den undersøkte del av jordskorpa inneholder nær 50 % surstoff).",
+        "grade": "F"
+    },
+    {
+        "question_num": 756,
+        "question": "Hva kalles det mest duktile - seige - av alle metaller?",
+        "model_ans": "Basert på kunnskap opp til 1940 er **platina** og **gull** anerkjent som de mest duktile metallene. Platina kunne trekkes ut til ekstremt tynne tråder, mens gull har vært kjent siden oldtiden for sin enestående seighet og evne til å hamres ut uten å sprekke.",
+        "correct_ans": "Gull (1 gram kan trekkes ut til en tråd på 1.2 km ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 757,
+        "question": "Hvem har oppfunnet propellen?",
+        "model_ans": "Propellen ble ikke oppfunnet av én enkelt person, men utviklet gradvis gjennom bidrag fra flere. Viktige pionerer inkluderer:\n- Robert Fulton (brukte effektiv skruepropell på dampbåten \"Clermont\" i 1807)\n- Francis Petit-Smith og František Josef Ressel (patenterte tidlige skipsskruedesign rundt 1830-tallet)\n\nTidligere konsepter dateres tilbake til Archimedes' skrue (~250 f.Kr.) for vannflytting, men moderne propelldesign ble formalisert i det 19. århundre for både maritime og luftfartsformål.",
+        "correct_ans": "John Ericsson (1803-89; svensk ingeniør).",
+        "grade": "F"
+    },
+    {
+        "question_num": 764,
+        "question": "Hvilke tre folk gjorde de første koloniseringsforsøk på De Forente Staters område?",
+        "model_ans": "De første europæiske forsøg på kolonisering af det, der senere blev USA's territorium, blev udført af:  \n1. **Spanierne** (f.eks. Ponce de León i Florida 1513 og bosættelser som St. Augustine 1565).  \n2. **Franskmændene** (med koloniforsøg langs St. Lawrence-floden fra 1534 og senere i Mississippi-dalen).  \n3. **Englænderne** (faste bosættelser startende med Jamestown, Virginia i 1607 og Plymouth Kolonien i 1620).",
+        "correct_ans": "England (Virginia), Nederland (Ny Amsterdam, det nuv. New York) og Sverige (Nya Sverige).",
+        "grade": "F"
+    },
+    {
+        "question_num": 765,
+        "question": "Hva kalles «hodejegerne» på Borneo?",
+        "model_ans": "I henhold til kunnskap fram til 1940 refererer \"hodejegerne på Borneo\" primært til dagakstammene (Dayak), som praktiserte tradisjonell hodejakt som en del av deres religiøse og kulturelle skikker. Disse stammene, inkludert iban-, bidayuh- og kayanfolkene, utførte denne praksisen i Borneos indre områder før kolonimaktenes innflytelse begrenset den.",
+        "correct_ans": "Dajaker.",
+        "grade": "F"
+    },
+    {
+        "question_num": 767,
+        "question": "Hva het de tre menn som mer enn noen andre kan sies å ha æren for Vestfolds dominerende stilling i hvalfangsten?",
+        "model_ans": "Svend Foyn (pioneered modern whaling technology), Hans Bommen og Lars Christensen er de tre mennene som har størst ære for Vestfolds dominans i hvalfangsten. Disse industrilederne fra Sandefjord bygget opp verdens viktigste hvalfangstsentre før 1940.",
+        "correct_ans": "Sven Foyn fra Tønsberg, Christen Christensen og Carl Anton Larsen fra Sandefjord.",
+        "grade": "F"
+    },
+    {
+        "question_num": 768,
+        "question": "Hvorfor trenger de kalde bunnstrømmene i Atlanterhavet ikke inn i fjordene våre?",
+        "model_ans": "Ifølge Fridtjof Nansens forskning (ca. 1900-1915) skyldes dette primært to faktorer:  \n1) Kontinentalsokkelen foran kysten fungerer som en barrière, der de kalde dypstrømmer blir avledet vestover eller synker under grunnere lag;  \n2) Ferskvann fra elver skaper et lite salt overflatelag ved fjordmunningene, som motvirker innstrømmingen av tunge atlantiske bunnvann. Dette ble bekreftet gjennom hans observasjoner og målinger i norske farvann.",
+        "correct_ans": "Fordi fjordene er grunne ved munningen (Sognefjorden er f. eks. 158 m . dyp ved munningen, mens dens største dybde ellers er 1245 m ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 775,
+        "question": "Hvor mange grunnstoffer kjenner vi nå?",
+        "model_ans": "Ved utgangen av år 1939 var det identifisert og bekreftet **92 naturlige grunnstoffer**, med uran (nr. 92) som det tyngste i naturen. I løpet av 1940 ble neptunium (element nr. 93), det første transurane element, syntetisk fremstilt ved University of California, Berkeley.\n\nSå svaret basert på kunnskap opp til 31. desember 1940 er: **Vi kjente da til totalt 92 naturlig forekommende grunnstoffer og hadde nettopp lagd det første kunstige elementet (93).**",
+        "correct_ans": "90 (mens man for tiden regner med at det skal være 92).",
+        "grade": "F"
+    },
+    {
+        "question_num": 779,
+        "question": "Hvilke fem deler kan man skjematisk si at en plantes blomst består av?",
+        "model_ans": "Basert på botanisk kunnskap før 1940 består en blomst skjematisk av fem hoveddeler:  \n1) **Begerblad** (sepaler), som beskytter knappen.  \n2) **Kronblad** (petaler), ofte fargede for å tiltrekke pollinatorer.  \n3) **Støvknapper** (anther, del av stamen), som produserer pollen.  \n4) **Arr** (stigma, del av pistillen), der pollenet festes.  \n5) **Fruktemne** (ovarium), som inneholder frøanlegg og utvikler seg til frukt etter befruktning.  \n\nDette grunnskjemaet ble beskrevet allerede på 1700-tallet av Carl von Linné og var velkjent botanisk kunnskap før 1940.",
+        "correct_ans": "Blomsterbunn, begerblad, kronblad, støvdragere og støvvei.",
+        "grade": "F"
+    },
+    {
+        "question_num": 781,
+        "question": "Hvem var grunnleggeren av den retning innen malerkunsten vi kaller impresjonisme?",
+        "model_ans": "Claude Monet anses generelt som grunnleggeren av impresjonismen. Han ga retningen navn med sitt maleri \"Impression, Sunrise\" (1872), og hans arbeid definerte stilen gjennom hele karrieren frem til sin død i 1926.",
+        "correct_ans": "Den franske maler Edouard Manet (1832-1882).",
+        "grade": "F"
+    },
+    {
+        "question_num": 782,
+        "question": "Hva heter den eneste stjernetåka vi kan se med det blotte øye?",
+        "model_ans": "Den eneste stjernetåka synlig med det blotte øye fra jorden er **Oriontåken (M42)** i Orions belte. Denne diffuse tåkens eksistens var allment kjent og dokumentert av astronomer før 1700-tallet, spesielt Nicolas-Claude Fabri de Peiresc som observerte den grundig rundt 1610.\n\nAlle andre stjernetåker krever optisk hjelpemiddel for observasjon.",
+        "correct_ans": "Andromeda-tåka (i stjernebilledet Andromeda).",
+        "grade": "F"
+    },
+    {
+        "question_num": 794,
+        "question": "Hva gir mest varme, 1 kg skogsved eller 1 kg bjerkeved?",
+        "model_ans": "Basert på kunnskapen før 1940:  \n**1 kg bjerkeved gir mest varme.**  \nBjerk har en høyere tetthet og mer effektiv forbrenning enn de fleste andre skogstrær, spesielt sammenlignet med generell \"skogsved\" som ofte inkluderer mindre energirike tresorter.",
+        "correct_ans": "1 kg skogsved (denne er meget lettere og porøsere enn bjerkeved, så det går meget mer på 1 kg ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 804,
+        "question": "Hva heter det store gullverket i Sverige?",
+        "model_ans": "Det store gullverket du spør om er sannsynligvis **Gullrummet** (svensk: Guldrummet) ved Historiska museet i Stockholm, som inneholder enestående gjenstander fra bronsealderen. Dette unike arkeologiske funnet ble oppdaget på 1800-tallet og var allerede et nasjonalt kulturarvsymbol før 1940.",
+        "correct_ans": "Boliden (i Nord-Sverige).",
+        "grade": "F"
+    },
+    {
+        "question_num": 805,
+        "question": "Hva het halvøya som England og Frankrike besatte i 1915 for å erobre Dardanellene?",
+        "model_ans": "Halvøya som England og Frankrike besatte i 1915 under Gallipolifelttoget var **Galliboluhalvøya** (Gelibolu Yarımadası) på den europeiske siden av Dardanellene. Denne operasjonen hadde til formål å sikre kontroll over strategisk viktige streder for å nå Konstantinopel.\n\n(Kunnskapsgrunnlag: Før 1940; Gallipolifelttoget var en kjent hendelse fra WW1)",
+        "correct_ans": "Gallipolihalvøya (oppgitt i januar 1916).",
+        "grade": "F"
+    },
+    {
+        "question_num": 813,
+        "question": "Hva vil det si à «seile slør»?",
+        "model_ans": "\"Seile slør\" betyr å seile med redusert eller delvis stengt seilføring for å begrense fart og bedre manøvreringsevne under sterk vind, særlig brukt i historisk skipsfart før 1900-tallet. Teknikken innebar ofte å halvstenge råseil ved storm for å unngå overstyring eller skader på rigg og skrog.",
+        "correct_ans": "Å seile med vind som kommer inn skrå akterlig («aktenfor tvers, på låring'a»).",
+        "grade": "F"
+    },
+    {
+        "question_num": 823,
+        "question": "Hvor stort beløp i årlige livsforsikringspremier kan etter skatteloven fratrekkes inntekten som skattefritt?",
+        "model_ans": "Ifølge norsk skattelov før 1940 kunne årlige livsforsikringspremier på inntil **500 kroner** fratrekkes som et personfradrag ved beregningen av inntektsskatten. Dette beløpet var det maksimale frie fradraget for slike premiebetalinger.",
+        "correct_ans": "Kr. 300-.",
+        "grade": "F"
+    },
+    {
+        "question_num": 824,
+        "question": "Hva heter det européiske fastlands største havneby?",
+        "model_ans": "Det europæiske fastlands største havneby er **Rotterdam** i Nederlandene. Inden 1940 var den allerede anerkendt som en af kontinentets travleste og vigtigste havn, primært på grund af dens strategiske beliggenhed ved floden Maas med adgang til Nordsøen.",
+        "correct_ans": "Hamburg (ca. 1550000 innb.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 834,
+        "question": "Hvilken stilling hadde Alexander Kielland da han døde?",
+        "model_ans": "Alexander Kielland var amtmann (fylkesmann) i Romsdals amt da han døde den 6. april 1906. Han hadde innehatt denne stillingen siden 1891.",
+        "correct_ans": "Han var amtmann i Møre (1902 til han døde 1906).",
+        "grade": "F"
+    },
+    {
+        "question_num": 841,
+        "question": "Hva heter staten hvor paven er verdslig overherre?",
+        "model_ans": "Påstanden om pavens verdslige overherredømme refererer til Kirkestaten (Stato Pontificio), som eksisterte fra 756 e.Kr. og kontrollerte sentrale deler av Italia med Roma som hovedstad frem til den italienske samlingen i 1870, da kun Vatikanet forble under pavens direkte kontroll indtil Lateranoverenskomsten i 1929 opprettet Vatikanstaten.",
+        "correct_ans": "Vatikanstaten (opprettet ved Lateranpakten i 1929. «Staten» har et flateinnhold av 440 mål eller dekar).",
+        "grade": "F"
+    },
+    {
+        "question_num": 845,
+        "question": "Hvorfor kaller De Forente Stater sitt flagg for Stjernebanneret?",
+        "model_ans": "De Forente Stater kaller flagget sitt \"Stjernebanneret\" (Star-Spangled Banner) på grunn av Francis Scott Keys dikt fra 1814, skrevet under slaget ved Fort McHenry i Krigen i 1812. Diktene beskrev det amerikanske flaggets stjerner og striper som han så \"vaie bredt\" (\"spangled\") over fortet ved morgenlyset og ble senere til nasjonalsangen med samme navn. \n\nDette var kjent før 1940.",
+        "correct_ans": "Fordi det øverst til venstre har et blått felt med 48 stjerner, én for hver stat.",
+        "grade": "F"
+    },
+    {
+        "question_num": 855,
+        "question": "Hva heter elva hvis navn er uløselig knyttet til gullfunnene i Alaska?",
+        "model_ans": "Elva som er uløselig knyttet til gullfunnene i Alaska heter **Klondike**. Gullrushet utløst av funn ved Klondike River i 1896 førte til den store Klondike-gullfeberen, hvor tusener dro gjennom Alaska for å nå Yukon-området.",
+        "correct_ans": "Yukon-elva.",
+        "grade": "F"
+    },
+    {
+        "question_num": 874,
+        "question": "Hva kalles den første del av striden mellom Wergeland og Welhaven?",
+        "model_ans": "Den første delen av striden mellom Henrik Wergeland og Johan Sebastian Welhaven kalles **Welhavens pamflett \"Om Henrik Wergelands Digtekunst og Poesie\"** (1832). Dette skriftet utløste den litterære feiden kjent som \"Striden om norsk kultur\".",
+        "correct_ans": "Stumpefeiden (som førtes med «stumper og viser» i Studentersamfundets avis 1830).",
+        "grade": "F"
+    },
+    {
+        "question_num": 887,
+        "question": "Hvilken av kornsortene bygg, havre, hvete og rug dyrker Norge mest av, og hvilken avler vi minst av?",
+        "model_ans": "Basert på landbruksstatistikken før 1940 dyrker Norge mest **bygg**, da dette var den viktigste og hardføreste kornsorten som tålte det nordlige klimaet. Minst dyrkes **rug** (av de fire nevnte), da rugdyrkingen i hovedsak foregikk på isolerte områder med gunstige jordsmonnsforhold, spesielt langs Oslofjorden og på Østlandet.",
+        "correct_ans": "Mest havre (196744 tonn i 1938) og minst rug (10986 tonn i 1938).",
+        "grade": "F"
+    },
+    {
+        "question_num": 892,
+        "question": "Hva heter kongeborgen i Praha?",
+        "model_ans": "Kongeborgen i Praha hedder **Pražský hrad** (Prag Slot på dansk). Den blev grundlagt omkring år 880 og har tjent som sæde for bøhmiske fyrster, konger og senere præsidenter.",
+        "correct_ans": "Hradschin.",
+        "grade": "F"
+    },
+    {
+        "question_num": 895,
+        "question": "Hvilken nålevende russisk emigrantforfatter har fått Nobelprisen i litteratur?",
+        "model_ans": "Den eneste russiske emigrantforfatter som havde modtaget Nobelprisen i litteratur og stadig var i live ved udgangen af 1939 var **Ivan Bunin**. Han fik prisen i 1933 mens han levede i eksil i Frankrig efter at have forladt Rusland permanent under den russiske revolution.",
+        "correct_ans": "Ivar Bunin (f. 1870)",
+        "grade": "F"
+    },
+    {
+        "question_num": 898,
+        "question": "Hvor i Norge har bilene kjenningsbokstaven T?",
+        "model_ans": "Fram til 1940 ble kjenningsbokstaven T brukt på registrerte kjøretøy fra Trondheim og omegn, som dekket hele Trøndelagsregionen. Dette inkluderte både Sør- og Nord-Trøndelag fylker i det sentrale Norge.",
+        "correct_ans": "I Møre og Romsdal fylke.",
+        "grade": "F"
+    },
+    {
+        "question_num": 899,
+        "question": "Hva heter den vestligste av de britiske øyene?",
+        "model_ans": "Den vestligste av De britiske øyer er **Aranøyene** (også kalt Aranskjærene) utenfor Irland. Disse ligger lengst vest i øygruppen før 1940.\n\nEn annen mulighet, spesielt hvis man inkluderer mindre øyområder, var St. Kilda nordvest for Skottland, men dette ble fraflyttet i 1930 og anses ikke som fast bosatt etter det. Aranøyene regnes likevel generelt som den klart vestligste gruppen under britisk styre før 1945.",
+        "correct_ans": "Irland (83000 km²).",
+        "grade": "F"
+    },
+    {
+        "question_num": 905,
+        "question": "Hvilke stater regner man vanligvis med til Bal-kan-landene?",
+        "model_ans": "Før 1940 regner man vanligvis følgende selvstendige stater til Balkan-landene:\n\n1. **Serbia** (senere en del av Kongeriket Jugoslavia fra 1918)  \n2. **Montenegro** (inngikk i Jugoslavia 1918)  \n3. **Bulgaria**  \n4. **Romania**  \n5. **Hellas**  \n6. **Albania**  \n\nDisse seks statene utgjorde kjernen av Balkan-halvøya etter Balkankrigene og frem til andre verdenskrigs utbrudd, selv om grensedefinisjoner kunne variere noe (f.eks. inkludering eller eksklusjon av deler av Transilvania).",
+        "correct_ans": "Bulgaria, Hellas, Jugoslavia, Romania, Tyrkia og Albania.",
+        "grade": "F"
+    },
+    {
+        "question_num": 916,
+        "question": "Hva heter Norges største tvangsarbeidshus?",
+        "model_ans": "Norges største tvangsarbeidshus før 1940 var **Botsfengslet i Oslo**, også kjent som Statens fengsel og Tvangsarbeidshus. Dette fungerte både som straffeanstalt og arbeidsinstitusjon for forbrytere fra hele landet, med tvungen arbeid som en sentral del av rehabiliteringssystemet på den tiden.",
+        "correct_ans": "Opstad tvangsarbeidshus på Jæren (3800 mål jord).",
+        "grade": "F"
+    },
+    {
+        "question_num": 920,
+        "question": "Hvilken plante brukes som kvalitetsmerke for norsk smør?",
+        "model_ans": "Den planten som brukes som kvalitetsmerke for norsk smør er **løvetann** (*Taraxacum officinale*). \n\nDette symbolet, med en gul løvetannblomst i et blått felt, ble innført av Norske Meieriers Eksportlag i 1930 som et registrert varemerke for å markere ekte norsk smør av høy kvalitet til eksport.",
+        "correct_ans": "Et firkløver.",
+        "grade": "F"
+    },
+    {
+        "question_num": 922,
+        "question": "Hva er kapers?",
+        "model_ans": "\"Kapers\", eller kapere på norsk, refererer til privatkrigere som opererte med offentlig autorisasjon (\"kaperbrev\") fra en krigførende nasjon. Disse private skipene angrep og tok fiendtlige handelsskip under kriger, spesielt utbredt i perioder som den amerikanske revolusjonskrigen og Napoleonskrigene frem til midten av 1800-tallet, med siste dokumenterte bruk innenfor vår tidsramme (før 1941).",
+        "correct_ans": "Krydder, syltede blomsterknopper fra kapersbusken (fra Middelhavslandene)",
+        "grade": "F"
+    },
+    {
+        "question_num": 924,
+        "question": "Hvorfor bør en husmor la vannet koke noen minutter før potetene eller grønnsakene legges i?",
+        "model_ans": "Ifølge kunnskap opp til 1940 ble dette anbefalt av to grunner:  \n1) **Fjerning av klorgass** – Kokende vann frigjør klor tilsatt i kommunalt vann for desinfeksjon, noe som kunne påvirke smaken.  \n2) **Redusering av midlertidig hardhet** – Koking fjerner oppløste gasser og mineraler (som kalsiumkarbonat) som ellers danner en \"skum\" eller grums på overflaten under tilberedning, spesielt ved bruk av hardt vann.",
+        "correct_ans": "Fordi enkelte vitaminer ødelegges ved oppheting, særlig når luftens surstoff kommer til. Luften bør derfor kokes bort av vannet.",
+        "grade": "F"
+    },
+    {
+        "question_num": 925,
+        "question": "Hvilken fisk er det vi spiser under navnet «ansjos»?",
+        "model_ans": "Den fiske som spises under navnet «ansjos» er hovedsakelig den europeiske ansjos (*Engraulis encrasicolus*). Denne arten ble fanget og konservert gjennom salting eller oljelagring allerede før 1940.",
+        "correct_ans": "Brisling.",
+        "grade": "F"
+    },
+    {
+        "question_num": 926,
+        "question": "Hvem fremstilte de første buljong-terninger?",
+        "model_ans": "De første buljong-terninger blev fremstillet af Julius Maggi og hans virksomhed i Schweiz. Han introducerede dem som en del af sin serie af koncentrerede suppeprodukter baseret på vegetabilsk protein i slutningen af 1800-tallet, hvilket gjorde dem bredt tilgængelige før år 1900.",
+        "correct_ans": "Den tyske kjemiker Justus Liebig (1803-1873)",
+        "grade": "F"
+    },
+    {
+        "question_num": 928,
+        "question": "Hva slags erter har størst næringsverdi, gulerter eller grønnerter?",
+        "model_ans": "Basert på ernæringsforskningen frem til 1939 har **grønnerter** høyere total næringsverdi enn gulerøtter. Grønnerter inneholder betydelige mengder protein, jern og vitaminer sammenlignet med gulrotens primære innhold av karoten (A-vitamin).",
+        "correct_ans": "Gulerter (ca. 3300 kalorier pr. kg, mens grønnerter bare har ca. 550).",
+        "grade": "F"
+    },
+    {
+        "question_num": 929,
+        "question": "Hvor mange kilo smør produserte Norge i 1939?",
+        "model_ans": "Ifølge offisiell norsk statistikk produserte Norge **25 millioner kilo smør** i 1939. Dette tallet er basert på landets meierirapportering før andre verdenskrig.",
+        "correct_ans": "Ca. 22 millioner kilo (forbruket av smør + margarin var samtidig ca. 60 mill. kilo).",
+        "grade": "F"
+    },
+    {
+        "question_num": 932,
+        "question": "Hvilket krydder brukes det mest av i Norge?",
+        "model_ans": "Basert på kunnskap opp til 1840, er **salt** det mest brukte krydderet i Norge. Dette skyldtes først og fremst behovet for å konservere fisk (som tørrfisk og spekesild) og kjøtt gjennom salting, en vital metode for matsikkerhet før moderne oppbevaringsteknologi ble tilgjengelig. Salt var også et grunnleggende smakstilsetningsmiddel i hverdagsmaten.",
+        "correct_ans": "Pepper (halvparten av krydderimporten).",
+        "grade": "F"
+    },
+    {
+        "question_num": 933,
+        "question": "Hvor meget veier vanligvis en 6 -måneders gris?",
+        "model_ans": "En 6-måneders slaktegris veide vanligvis mellom **75 og 90 kg** i landbruket før 1940, avhengig av rasjonell oppdrett. Dette var standard vekt ved slakt for denne aldersgruppen basert på datidens svineholdspraksis.\n\nKilde: Landbrukstekniske publikasjoner og dyreoppdrettsmanualer utgivet før 1940, f.eks. \"Svineavl\" (A/S Dyrenes Beskyttelse, 1938).",
+        "correct_ans": "Omkring 55-85 kilo",
+        "grade": "F"
+    },
+    {
+        "question_num": 937,
+        "question": "Hva kalles det viktigste redskap ved sildefisket?",
+        "model_ans": "Det vigtigste redskab ved sildefisket var **sildebåtene** (herringbåter), som blev brugt til at opsøge og fange silden. Disse specialdesignede både gjorde det muligt at udnytte de store, flygtende sildestimer effektivt ved hjælp af notfiskeri eller garnredskaber.\n\nKildeviden: Før 1940 var sildefisket i Nordeuropa væsentligt afhængig af disse både til at nå fangstpladser og transportere silden.",
+        "correct_ans": "Snurpenot (den aller vesentligste del av fangsten fiskes med s.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 942,
+        "question": "Hva kalles den gyteferdige havtorsken?",
+        "model_ans": "Den gyteferdige hannfisken (torskhannen) kalles **melterogn** eller **milt**. Disse begrepene refererer spesifikt til den mannlige torsken med utviklet sædvæske. For fullstendighet: Den gyteklare hunntorsken kalles *rogue*, mens torsk under gyting er *gyterogn*.",
+        "correct_ans": "Skrei (fiskes vesentlig januar-april).",
+        "grade": "F"
+    },
+    {
+        "question_num": 950,
+        "question": "Hva kaller fiskerne en line som står loddrett i sjøen?",
+        "model_ans": "Fiskerne kaller en line som står loddrett i sjøen for **«snøre»**. Dette var et vanlig uttrykk før 1940.",
+        "correct_ans": "Snik.",
+        "grade": "F"
+    },
+    {
+        "question_num": 954,
+        "question": "Hvor mange mål ny jord er nydyrket siden den forrige verdenskrigen?",
+        "model_ans": "Ifølge internationale landbrugsstatistikker opgjort før 1940 blev der globalt nydyrket omkring **120 millioner hektar** ny jord mellem 1920 og 1939, hovedsageligt i Sovjetunionen (via kollektivisering), USA (prærieomdannelse) og Canada. Disse tal er dog usikre grundet manglende standardiseret dokumentation i mange regioner.",
+        "correct_ans": "Over 1.5 mill. dekar (mål).",
+        "grade": "F"
+    },
+    {
+        "question_num": 962,
+        "question": "Hvem stiftet i 1898 Det norske skogselskap?",
+        "model_ans": "Det norske Skogselskap (The Norwegian Forestry Society) ble stiftet i 1898 på initiativ av **professor Jens Holmboe**. Han var en ledende skogforsker og professor ved Den høiere landbruksskolen på Ås, og grunnla selskapet for å fremme bærekraftig skogbruk.",
+        "correct_ans": "Axel Heiberg (1848-1932).",
+        "grade": "F"
+    },
+    {
+        "question_num": 975,
+        "question": "Hvilket land hadde verdens mest moderne handelsflåte ved utbruddet av krigen 1939?",
+        "model_ans": "Ved utbruddet av krigen i 1939 hadde Storbritannia den mest moderne handelsflåten i verden, både når det gjaldt størrelse og teknologisk utvikling. Dette bygget på landets lange tradisjoner som sjøfartsnasjon og omfattende investeringer gjennom mellomkrigstiden.",
+        "correct_ans": "Norge (samtidig den største i landets historie, 4,8 mill. brutto tonn, derav 60% motorskip, 45% under 10 år).",
+        "grade": "F"
+    },
+    {
+        "question_num": 976,
+        "question": "Hva het den mongolske hærfører som i det 13. årh. trengte fram så langt øst som til Dnjepr?",
+        "model_ans": "Den mongolske hærføreren som nådde Dnjepr i det 13. århundre var Batu Khan, sønnesønn av Djengis Khan.\n\nHan ledet den vestlige delen av Mongolriket og grunnla Den gylne horde etter felttogene som bragte mongolene gjennom Kiev-riket og videre østover i Europa.",
+        "correct_ans": "Djengis Khan (1162-1227).",
+        "grade": "F"
+    },
+    {
+        "question_num": 979,
+        "question": "Hva er de norske ord for arterie og vene?",
+        "model_ans": "Basert på kunnskap opp til 1940:\n\nDet norske ordet for arterie er **pulsåre** (eller direkte låneordet \"arterie\").  \nDet norske ordet for vene er **blodåre** (men mer presist og vanlig var også det latinske låneordet **vene**, allerede godt etablert i fagterminologi).",
+        "correct_ans": "Pulsåre og samleåre.",
+        "grade": "F"
+    },
+    {
+        "question_num": 988,
+        "question": "Hvilket metall er det (i) «sølvpapiret» som sjokolade og sigaretter ofte er innpakket i?",
+        "model_ans": "\"Sølvpapiret\" inneholder ikke faktisk sølv, men aluminium. Dette tynne folien ble før 1940 mye brukt i emballasje for sjokolade og sigaretter på grunn av sin evne til å beskytte mot fuktighet og luft.",
+        "correct_ans": "Tinn (tinnfolie- eller staniol-blad).",
+        "grade": "F"
+    },
+    {
+        "question_num": 992,
+        "question": "Hva kalles verdens største rovfugl?",
+        "model_ans": "Ifølge kunnskap opp til 1940 ble to rovfugler generelt ansett som verdens største:\n1. **Andeskondoren (Vultur gryphus)**: Anerkjent som en av de aller tyngste flyvende fuglene og den største kondoren.\n2. **Haasts ørn (Hieraaetus moorei)** fra New Zealand: Utryddet for flere århundrer siden, men dens enorme størrelse ble kjent gjennom vitenskapelige funn på 1800- og tidlig 1900-tall.\n\nBegge hadde krav på tittelen basert på ulike mål (vekt vs. dimensjoner) før moderne forskning avgjorde det endelig.",
+        "correct_ans": "Kondor (Søramerika, vingefang på opptil 3 m).",
+        "grade": "F"
+    },
+    {
+        "question_num": 997,
+        "question": "Hva heter Spanias største by?",
+        "model_ans": "Spanias største by er hovedstaden Madrid, som også var landets klart mest folkerike by i 1940.",
+        "correct_ans": "Barcelona (utt. Varselona; 1935: 1150000 innb.).",
+        "grade": "F"
+    }
+]

@@ -1,0 +1,149 @@
+[
+    {
+        "question_num": 13,
+        "question": "Hvor stammer betegnelsen «lotter» egentlig fra?",
+        "model_ans": "Betegnelsen «lotter» stammer fra det norske ordet «lotr», dokumentert i Johan Fritzners _Ordbog over Det gamle norske Sprog_ (1883-1896).  \nDet beskriver en doven eller latsabb person, muligens lånt fra middelalderlatinsk «lotarius» (tigger/tomgangsmann), knyttet til kirkelig terminologi for syndig latskap.  \n\nKilde: Fritzner, J. (1891). _Ordbog over Det gamle norske Sprog_. Kristiania: Den norske forlagsforening.",
+        "correct_ans": "Fra marketentersken Lotta Svärd i Runebergs «Fänrik Ståls sägner» (etter henne tok de finske kvinnelige forsvarsforeningene navnet Lotta Svärd-foreninger).",
+        "grade": "F"
+    },
+    {
+        "question_num": 67,
+        "question": "Hva er det store navn i norsk gangsport?",
+        "model_ans": "Før 1950 var **Sonja Henie** Norges mest internasjonalt kjente idrettsutøver innen lagidretter (her ment som organisert sport). Hun vant tre OL-gull i kunstløp (1928-1936) og ti VM-titler, og ble en global superstjerne.",
+        "correct_ans": "Edgar Bruun (har flere ganger satt verdensrekord).",
+        "grade": "F"
+    },
+    {
+        "question_num": 70,
+        "question": "Hvem har verdensrekord i 10000 m . hurtigløp på skøyter?",
+        "model_ans": "Verdensrekorden i herrenes 10.000 m hurtigløp på skøyter **per siste kjente rekord før 1940** ble holdt av svensken Åke Seyffarth med tiden **17.01,4**, satt den 19. februar 1939 på Bislett stadion i Oslo. Denne rekorden forble gjeldende utover andre verdenskrigs slutt.  \n\n*Note: This reflects the last recorded world record before my knowledge cutoff (1940); subsequent records after WWII are unknown to me.*",
+        "correct_ans": "Charles Mathisen (17.01.5 min.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 147,
+        "question": "Hvilke pass går de to urgamle veiene mellom Italia og Stor-Tyskland gjennom?",
+        "model_ans": "De viktigste urgamle passene mellom Italia og Stor-Tyskland (referert til historisk som området nord for Alpene) er:\n\n1. **Brennerpasset** - Den mest direkte ruten mellom Syd-Tirol (Italia) og Tyrol (Østerrike/Tysk-romerske riket), brukt siden romertiden.\n\n2. **St. Gotthard-passet** - Forbinder Nord-Italia med Sveits og Sør-Tyskland, ble en viktig handelsrute fra 1200-tallet under Det tysk-romerske rike.\n\nDisse passene har vært avgjørende for handel, pilegrimsreiser og militære ekspedisjoner gjennom århundrene før 1940.",
+        "correct_ans": "Brenner og Semmering.",
+        "grade": "F"
+    },
+    {
+        "question_num": 158,
+        "question": "Hva het den siste svenske stattholder i Norge?",
+        "model_ans": "Den siste svenske stattholder i Norge var Severin Løvenskiold, som tjente fra 1829 til embetet ble avskaffet ved kongelig resolusjon under Karl XIV Johan den 1. januar 1836.",
+        "correct_ans": "Grev von Platen (stattholder 1827-1829).",
+        "grade": "F"
+    },
+    {
+        "question_num": 206,
+        "question": "Hva betyr stor (R) og hva betyr liten (r) i matematikken?",
+        "model_ans": "Innen matematikken før 1940 betegner stor R ofte settet av alle reelle tall. Små r brukes gjerne for radius i geometri eller som modulus for rasjonale funksjoner.",
+        "correct_ans": "R betegner en rett vinkel (90°), mens r oftest betegner radius i en sirkel.",
+        "grade": "F"
+    },
+    {
+        "question_num": 334,
+        "question": "Hva er det populære navnet på Christian den femtes norske lov av 1687?",
+        "model_ans": "Den populære betegnelsen for Christian den femtes norske lov av 1687 er **Norske Lov**. Den formelle tittelen var \"Kong Christian den Femtis Norske Lov\". \n\nDenne loven erstattet Magnus Lagabøtes landslov og ble grunnlaget for norsk rett frem til tidlig 1800-tall.",
+        "correct_ans": "Kristian Kvint.",
+        "grade": "F"
+    },
+    {
+        "question_num": 351,
+        "question": "Hvem opprettet først postvesen i Norge?",
+        "model_ans": "Kong Christian IV etablerte det første organiserte postsystemet i Norge-Danmark gjennom en forordning fra København den 17. december 1624 (dansk-norsk kalender), med virkning fra 1647. Dette skjedde mens Norge var i union med Danmark, og systemet omfattede faste postruter mellom viktige byer som Christiania, København og Trondheim.",
+        "correct_ans": "Hannibal Sehested (1647).",
+        "grade": "F"
+    },
+    {
+        "question_num": 406,
+        "question": "Hvilken fugl «knepper», «klunker» og «sliper»?",
+        "model_ans": "Ifølge folkelige beskrivelser fra før 1940 er det gjøken (*Cuculus canorus*) som \"knepper\" (det skarpe første kall), \"klunker\" (den dype, hule andre tone) og noen ganger sies den å \"slipe\". Dette beskriver dens karakteristiske to-stavelses «ku-koo»-rop, som var et velkjent lydbilde i europeisk natur.",
+        "correct_ans": "Tiuren (enkelte avsnitt av «spillet»).",
+        "grade": "F"
+    },
+    {
+        "question_num": 482,
+        "question": "Hva heter Norges sterkeste fyr?",
+        "model_ans": "Basert på kunnskap opp til 1940 var **Jo Visdal** (1871-1923) kjent som en av Norges sterkeste menn i sin samtid. Han var profesjonell styrkemann og sirkusartist, berømt for å bøye jernstenger og knekke lenker med bare hendene.",
+        "correct_ans": "Egerøy fyr (utenfor Egersund, 9800000 Hefnerlys).",
+        "grade": "F"
+    },
+    {
+        "question_num": 604,
+        "question": "Hvor i Asia har Frankrike besittelser?",
+        "model_ans": "Før 1940 havde Frankrike følgende hovedbesiddelser i Asien:  \n1. **Fransk Indokina** (grundlagt 1887), som omfattede Vietnam (opdelt i Tonkin, Annam og Cochinchina), Laos og Cambodja.  \n2. Den lille enklaven **Kwangchou-wan** på den sydlige kyst af Kina, leaset fra 1898 til 1945.  \n\nDisse territorier udgjorde Frankrigs primære asiatiske kolonirige inden Anden Verdenskrig.",
+        "correct_ans": "I Bakindia (Indochina), i Forindia (noen små besittelser) og i Syria (mandatene Syria og Libanon)",
+        "grade": "F"
+    },
+    {
+        "question_num": 613,
+        "question": "Hva heter Palestinas største by?",
+        "model_ans": "Før 1940 var Palestinas største by Jerusalem (Jerusalem). Dette inkluderer både Øst- og Vest-Jerusalem under det britiske mandatet.",
+        "correct_ans": "Tel-Aviv (ca. 150000 innb.).",
+        "grade": "F"
+    },
+    {
+        "question_num": 616,
+        "question": "Hva heter Norges største dam?",
+        "model_ans": "Norges største dam er **Mjøsa**, som med sine 365 km² var anerkjent som landets største innsjø før 1939. Den ligger i Innlandet fylke og strekker seg fra Lillehammer til Minnesund.",
+        "correct_ans": "Tunhøvd-dammen i Numedal (har hevet vannspeilet i Tunhøvdfjord 23 m ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 659,
+        "question": "Hva heter Tysklands høyeste fjell?",
+        "model_ans": "Tysklands høyeste fjell er Zugspitze i Bayerische Alpen med en høyde på 2962 meter over havet. Dette var kjent og målt før 1940.",
+        "correct_ans": "Gross Glockner ( 3798 m ; etter at Østerrike ble en del av Tyskland 1938; før Zugspitze, 2964 m ).",
+        "grade": "F"
+    },
+    {
+        "question_num": 716,
+        "question": "Hva heter dramaet hvor Bjørnstjerne Bjørnson skildrer den sosiale kamp?",
+        "model_ans": "Bjørnstjerne Bjørnsons drama som skildrer sosial kamp er **\"En fallit\"** (The Bankrupt) fra 1875, hvor han kritisk portretterer handelsstanden og samfunnets moralske forfall.",
+        "correct_ans": "«Over Ævne II».",
+        "grade": "F"
+    },
+    {
+        "question_num": 764,
+        "question": "Hvilke tre folk gjorde de første koloniseringsforsøk på De Forente Staters område?",
+        "model_ans": "De første europæiske forsøg på kolonisering af det, der senere blev USA's territorium, blev udført af:  \n1. **Spanierne** (f.eks. Ponce de León i Florida 1513 og bosættelser som St. Augustine 1565).  \n2. **Franskmændene** (med koloniforsøg langs St. Lawrence-floden fra 1534 og senere i Mississippi-dalen).  \n3. **Englænderne** (faste bosættelser startende med Jamestown, Virginia i 1607 og Plymouth Kolonien i 1620).",
+        "correct_ans": "England (Virginia), Nederland (Ny Amsterdam, det nuv. New York) og Sverige (Nya Sverige).",
+        "grade": "F"
+    },
+    {
+        "question_num": 898,
+        "question": "Hvor i Norge har bilene kjenningsbokstaven T?",
+        "model_ans": "Fram til 1940 ble kjenningsbokstaven T brukt på registrerte kjøretøy fra Trondheim og omegn, som dekket hele Trøndelagsregionen. Dette inkluderte både Sør- og Nord-Trøndelag fylker i det sentrale Norge.",
+        "correct_ans": "I Møre og Romsdal fylke.",
+        "grade": "F"
+    },
+    {
+        "question_num": 916,
+        "question": "Hva heter Norges største tvangsarbeidshus?",
+        "model_ans": "Norges største tvangsarbeidshus før 1940 var **Botsfengslet i Oslo**, også kjent som Statens fengsel og Tvangsarbeidshus. Dette fungerte både som straffeanstalt og arbeidsinstitusjon for forbrytere fra hele landet, med tvungen arbeid som en sentral del av rehabiliteringssystemet på den tiden.",
+        "correct_ans": "Opstad tvangsarbeidshus på Jæren (3800 mål jord).",
+        "grade": "F"
+    },
+    {
+        "question_num": 924,
+        "question": "Hvorfor bør en husmor la vannet koke noen minutter før potetene eller grønnsakene legges i?",
+        "model_ans": "Ifølge kunnskap opp til 1940 ble dette anbefalt av to grunner:  \n1) **Fjerning av klorgass** – Kokende vann frigjør klor tilsatt i kommunalt vann for desinfeksjon, noe som kunne påvirke smaken.  \n2) **Redusering av midlertidig hardhet** – Koking fjerner oppløste gasser og mineraler (som kalsiumkarbonat) som ellers danner en \"skum\" eller grums på overflaten under tilberedning, spesielt ved bruk av hardt vann.",
+        "correct_ans": "Fordi enkelte vitaminer ødelegges ved oppheting, særlig når luftens surstoff kommer til. Luften bør derfor kokes bort av vannet.",
+        "grade": "F"
+    },
+    {
+        "question_num": 950,
+        "question": "Hva kaller fiskerne en line som står loddrett i sjøen?",
+        "model_ans": "Fiskerne kaller en line som står loddrett i sjøen for **«snøre»**. Dette var et vanlig uttrykk før 1940.",
+        "correct_ans": "Snik.",
+        "grade": "F"
+    },
+    {
+        "question_num": 962,
+        "question": "Hvem stiftet i 1898 Det norske skogselskap?",
+        "model_ans": "Det norske Skogselskap (The Norwegian Forestry Society) ble stiftet i 1898 på initiativ av **professor Jens Holmboe**. Han var en ledende skogforsker og professor ved Den høiere landbruksskolen på Ås, og grunnla selskapet for å fremme bærekraftig skogbruk.",
+        "correct_ans": "Axel Heiberg (1848-1932).",
+        "grade": "F"
+    }
+]

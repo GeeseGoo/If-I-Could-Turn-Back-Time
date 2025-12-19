@@ -1,0 +1,14 @@
+{
+  "timestamp": "2025-11-25T19:40:29.513233Z",
+  "model": "norwai-mixtral-8x7b:latest",
+  "lang": "no",
+  "num_q": 1000,
+  "duration_s": 8727.976,
+  "slurm_job_id": "23666343",
+  "slurm_array_task_id": "2",
+  "node": "idun-01-04",
+  "correct_answers": 145,
+  "invalid_answers": 25,
+  "accuracy": 0.145,
+  "num_gpus": 1
+}
