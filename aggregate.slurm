@@ -8,6 +8,11 @@
 #SBATCH --output=logs/aggregate_%j.out
 #SBATCH --error=logs/aggregate_%j.err
 set -euo pipefail
-module load Python/3.13.5-GCCcore-14.3.0 
-pip install matplotlib dotenv requests
+
+mkdir -p logs
+
+module load Python/3.13.5-GCCcore-14.3.0
+python -m pip install --upgrade pip
+python -m pip install -r requirements.txt
+
 python aggregate.py > logs/aggregate.log
